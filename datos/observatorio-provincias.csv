@@ -1,0 +1,52 @@
+nombre,slug,webs,caidas,pctCaidas,dominioPerdido,pctDominioPerdido,tlsMal,pctTlsMal,conTls,conCorreo,suplantables,pctSuplantables
+Madrid,provincia-de-madrid,49077,12960,26.4,8152,16.6,3061,8.5,35911,35178,29115,82.8
+Barcelona,provincia-de-barcelona,45569,12931,28.4,7520,16.5,3444,10.6,32456,33004,25601,77.6
+Valencia,provincia-de-valencia,21140,5442,25.7,3382,16.0,1305,8.4,15599,15578,12706,81.6
+Alicante,provincia-de-alicante,20937,4824,23.0,3137,15.0,1234,7.7,16038,15535,12353,79.5
+Málaga,provincia-de-malaga,19531,4954,25.4,3153,16.1,1129,7.8,14499,14213,11665,82.1
+Illes Balears,provincia-de-illes-balears,14697,3600,24.5,2186,14.9,973,8.8,11037,10855,9234,85.1
+Sevilla,provincia-de-sevilla,12793,3411,26.7,2190,17.1,842,9.0,9338,9304,7604,81.7
+Murcia,provincia-de-murcia,10645,2688,25.3,1741,16.4,736,9.3,7914,7783,6242,80.2
+A Coruña,provincia-de-a-coruna,8926,1929,21.6,1227,13.7,638,9.2,6961,6751,5289,78.3
+Asturias,provincia-de-asturias,8716,2221,25.5,1406,16.1,713,11.0,6463,6267,5150,82.2
+Cádiz,provincia-de-cadiz,8666,2305,26.6,1494,17.2,597,9.5,6311,6222,5185,83.3
+Santa Cruz de Tenerife,provincia-de-santa-cruz-de-tenerife,8550,2376,27.8,1538,18.0,555,9.1,6129,5998,5049,84.2
+Las Palmas,provincia-de-las-palmas,8519,2311,27.1,1412,16.6,555,9.0,6170,6053,5138,84.9
+Girona,provincia-de-girona,8515,2214,26.0,1245,14.6,820,13.1,6262,6398,4887,76.4
+Granada,provincia-de-granada,7929,1988,25.1,1299,16.4,495,8.4,5913,5712,4685,82.0
+Pontevedra,provincia-de-pontevedra,7509,1609,21.4,1074,14.3,507,8.6,5869,5748,4431,77.1
+Bizkaia,provincia-de-bizkaia,6863,1879,27.4,1092,15.9,464,9.4,4932,5027,4066,80.9
+Tarragona,provincia-de-tarragona,6643,1767,26.6,1080,16.3,470,9.7,4833,4873,3874,79.5
+Zaragoza,provincia-de-zaragoza,6418,1595,24.9,996,15.5,455,9.5,4793,4789,3716,77.6
+Cantabria,provincia-de-cantabria,5459,1523,27.9,939,17.2,384,9.8,3907,3900,3172,81.3
+Córdoba,provincia-de-cordoba,5171,1233,23.8,806,15.6,362,9.2,3919,3910,3088,79.0
+Gipuzkoa,provincia-de-gipuzkoa,5104,1308,25.6,741,14.5,346,9.2,3765,3752,3042,81.1
+Castellón,provincia-de-castellon,4919,1151,23.4,723,14.7,331,8.8,3748,3683,2944,79.9
+Almería,provincia-de-almeria,4864,1305,26.8,824,16.9,310,8.8,3534,3485,2803,80.4
+Navarra,provincia-de-navarra,4713,973,20.6,603,12.8,352,9.5,3707,3636,2913,80.1
+Toledo,provincia-de-toledo,4561,1194,26.2,810,17.8,307,9.2,3349,3288,2749,83.6
+Huelva,provincia-de-huelva,4189,964,23.0,628,15.0,306,9.6,3199,3063,2498,81.6
+Badajoz,provincia-de-badajoz,4010,994,24.8,646,16.1,258,8.6,3002,2988,2348,78.6
+Valladolid,provincia-de-valladolid,3879,875,22.6,534,13.8,277,9.3,2986,2984,2417,81.0
+Lleida,provincia-de-lleida,3834,954,24.9,528,13.8,360,12.6,2859,2958,2209,74.7
+Jaén,provincia-de-jaen,3674,1019,27.7,605,16.5,234,8.9,2638,2722,2176,79.9
+León,provincia-de-leon,3455,848,24.5,526,15.2,272,10.5,2595,2566,2189,85.3
+Burgos,provincia-de-burgos,3037,723,23.8,423,13.9,241,10.5,2301,2286,1826,79.9
+Ciudad Real,provincia-de-ciudad-real,2997,711,23.7,491,16.4,223,9.8,2272,2256,1845,81.8
+Salamanca,provincia-de-salamanca,2974,735,24.7,493,16.6,213,9.6,2223,2170,1684,77.6
+Cáceres,provincia-de-caceres,2766,697,25.2,395,14.3,222,10.8,2055,2084,1652,79.3
+Lugo,provincia-de-lugo,2759,570,20.7,360,13.0,208,9.5,2179,2060,1611,78.2
+Albacete,provincia-de-albacete,2686,628,23.4,425,15.8,182,8.9,2052,1966,1509,76.8
+La Rioja,provincia-de-la-rioja,2664,655,24.6,400,15.0,246,12.3,1996,2021,1664,82.3
+Huesca,provincia-de-huesca,2554,553,21.7,329,12.9,209,10.5,1989,1992,1595,80.1
+Álava,provincia-de-alava,2221,519,23.4,325,14.6,176,10.4,1687,1674,1401,83.7
+Ourense,provincia-de-ourense,2037,499,24.5,343,16.8,164,10.7,1531,1466,1112,75.9
+Guadalajara,provincia-de-guadalajara,1649,425,25.8,275,16.7,112,9.2,1215,1179,981,83.2
+Segovia,provincia-de-segovia,1587,409,25.8,281,17.7,135,11.5,1170,1152,994,86.3
+Ávila,provincia-de-avila,1456,408,28.0,271,18.6,111,10.6,1045,1020,847,83.0
+Cuenca,provincia-de-cuenca,1389,339,24.4,242,17.4,103,9.8,1046,995,803,80.7
+Teruel,provincia-de-teruel,1341,300,22.4,175,13.0,110,10.6,1035,1047,854,81.6
+Zamora,provincia-de-zamora,1318,313,23.7,207,15.7,111,11.1,1004,951,714,75.1
+Palencia,provincia-de-palencia,1066,298,28.0,194,18.2,82,10.7,765,767,641,83.6
+Soria,provincia-de-soria,884,178,20.1,141,16.0,55,7.8,705,648,472,72.8
+Melilla,provincia-de-melilla,230,70,30.4,43,18.7,18,11.4,158,153,124,81.0

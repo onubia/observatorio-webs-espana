@@ -1,0 +1,1155 @@
+{
+ "actualizado": "2026-11-20",
+ "webs": 377113,
+ "caidas": {
+  "total": 96379,
+  "motivos": [
+   {
+    "motivo": "El dominio ya no existe",
+    "webs": 68073,
+    "pct": 70.6
+   },
+   {
+    "motivo": "El servidor no contesta",
+    "webs": 19300,
+    "pct": 20.0
+   },
+   {
+    "motivo": "Error 404: la página no existe",
+    "webs": 3373,
+    "pct": 3.5
+   },
+   {
+    "motivo": "Error 502/503/504: servidor caído o saturado",
+    "webs": 2824,
+    "pct": 2.9
+   },
+   {
+    "motivo": "Error 500: el servidor falla",
+    "webs": 1309,
+    "pct": 1.4
+   },
+   {
+    "motivo": "Otros errores del servidor",
+    "webs": 725,
+    "pct": 0.8
+   },
+   {
+    "motivo": "Error 52x: falla detrás de Cloudflare",
+    "webs": 464,
+    "pct": 0.5
+   },
+   {
+    "motivo": "Error 402: «pago requerido»",
+    "webs": 311,
+    "pct": 0.3
+   }
+  ]
+ },
+ "candado": {
+  "conTls": 279083,
+  "estados": [
+   {
+    "estado": "Bien puesto",
+    "clave": "valido",
+    "webs": 253069,
+    "pct": 90.7
+   },
+   {
+    "estado": "Sin https: todo viaja sin cifrar",
+    "clave": "sin_https",
+    "webs": 14046,
+    "pct": 5.0
+   },
+   {
+    "estado": "Certificado de otro dominio",
+    "clave": "nombre",
+    "webs": 7369,
+    "pct": 2.6
+   },
+   {
+    "estado": "Certificado inválido o no fiable",
+    "clave": "invalido",
+    "webs": 3433,
+    "pct": 1.2
+   },
+   {
+    "estado": "Caducado",
+    "clave": "caducado",
+    "webs": 1166,
+    "pct": 0.4
+   }
+  ],
+  "caducan7": 568,
+  "caducan30": 15139
+ },
+ "correo": {
+  "conCorreo": 276128,
+  "spf": [
+   {
+    "regla": "«~all»: avisa pero deja pasar",
+    "clave": "tilde",
+    "dominios": 169996,
+    "pct": 61.6
+   },
+   {
+    "regla": "«-all»: rechaza lo que no es suyo",
+    "clave": "menos",
+    "dominios": 71292,
+    "pct": 25.8
+   },
+   {
+    "regla": "Sin SPF",
+    "clave": "sin",
+    "dominios": 16098,
+    "pct": 5.8
+   },
+   {
+    "regla": "SPF sin regla final",
+    "clave": "sin_all",
+    "dominios": 15453,
+    "pct": 5.6
+   },
+   {
+    "regla": "«?all»: neutral, no protege",
+    "clave": "interrogacion",
+    "dominios": 3130,
+    "pct": 1.1
+   },
+   {
+    "regla": "«+all»: autoriza a cualquiera",
+    "clave": "mas",
+    "dominios": 159,
+    "pct": 0.1
+   }
+  ],
+  "dmarc": [
+   {
+    "politica": "DMARC en «solo vigilar»",
+    "clave": "none",
+    "dominios": 114281,
+    "pct": 41.4
+   },
+   {
+    "politica": "Sin DMARC",
+    "clave": "sin",
+    "dominios": 108600,
+    "pct": 39.3
+   },
+   {
+    "politica": "DMARC: a spam",
+    "clave": "quarantine",
+    "dominios": 39247,
+    "pct": 14.2
+   },
+   {
+    "politica": "DMARC: rechazar",
+    "clave": "reject",
+    "dominios": 13967,
+    "pct": 5.1
+   },
+   {
+    "politica": "DMARC mal escrito",
+    "clave": "mal",
+    "dominios": 33,
+    "pct": 0.0
+   }
+  ],
+  "sinNada": 11796,
+  "pctSinNada": 4.3
+ },
+ "proveedores": [
+  {
+   "proveedor": "Servidor propio o del hosting",
+   "dominios": 88295,
+   "cuota": 32.0,
+   "pctSuplantables": 79.2,
+   "pctReject": 4.2
+  },
+  {
+   "proveedor": "Otros",
+   "dominios": 37358,
+   "cuota": 13.5,
+   "pctSuplantables": 69.3,
+   "pctReject": 5.9
+  },
+  {
+   "proveedor": "IONOS",
+   "dominios": 32302,
+   "cuota": 11.7,
+   "pctSuplantables": 97.6,
+   "pctReject": 1.1
+  },
+  {
+   "proveedor": "Microsoft 365",
+   "dominios": 24113,
+   "cuota": 8.7,
+   "pctSuplantables": 68.3,
+   "pctReject": 11.1
+  },
+  {
+   "proveedor": "Google Workspace",
+   "dominios": 20502,
+   "cuota": 7.4,
+   "pctSuplantables": 75.5,
+   "pctReject": 7.1
+  },
+  {
+   "proveedor": "Arsys / Piensa Solutions",
+   "dominios": 18830,
+   "cuota": 6.8,
+   "pctSuplantables": 88.1,
+   "pctReject": 1.7
+  },
+  {
+   "proveedor": "Sin SPF (no se sabe)",
+   "dominios": 16098,
+   "cuota": 5.8,
+   "pctSuplantables": 84.2,
+   "pctReject": 14.7
+  },
+  {
+   "proveedor": "Hostinger",
+   "dominios": 8358,
+   "cuota": 3.0,
+   "pctSuplantables": 98.3,
+   "pctReject": 0.6
+  },
+  {
+   "proveedor": "Webempresa",
+   "dominios": 7563,
+   "cuota": 2.7,
+   "pctSuplantables": 98.9,
+   "pctReject": 0.3
+  },
+  {
+   "proveedor": "Raiola Networks",
+   "dominios": 5594,
+   "cuota": 2.0,
+   "pctSuplantables": 50.1,
+   "pctReject": 0.6
+  },
+  {
+   "proveedor": "OVHcloud",
+   "dominios": 5290,
+   "cuota": 1.9,
+   "pctSuplantables": 94.7,
+   "pctReject": 1.4
+  },
+  {
+   "proveedor": "Don Dominio / SW Hosting",
+   "dominios": 4544,
+   "cuota": 1.6,
+   "pctSuplantables": 95.8,
+   "pctReject": 2.4
+  },
+  {
+   "proveedor": "GoDaddy",
+   "dominios": 1842,
+   "cuota": 0.7,
+   "pctSuplantables": 74.8,
+   "pctReject": 10.5
+  },
+  {
+   "proveedor": "Amazon SES",
+   "dominios": 1680,
+   "cuota": 0.6,
+   "pctSuplantables": 77.9,
+   "pctReject": 5.2
+  },
+  {
+   "proveedor": "Zoho",
+   "dominios": 1477,
+   "cuota": 0.5,
+   "pctSuplantables": 83.7,
+   "pctReject": 3.0
+  },
+  {
+   "proveedor": "Mailchimp / Mandrill",
+   "dominios": 936,
+   "cuota": 0.3,
+   "pctSuplantables": 76.3,
+   "pctReject": 9.4
+  },
+  {
+   "proveedor": "SendGrid",
+   "dominios": 859,
+   "cuota": 0.3,
+   "pctSuplantables": 88.5,
+   "pctReject": 3.0
+  },
+  {
+   "proveedor": "Strato",
+   "dominios": 336,
+   "cuota": 0.1,
+   "pctSuplantables": 26.2,
+   "pctReject": 56.8
+  }
+ ],
+ "tlds": [
+  {
+   "tld": ".com",
+   "webs": 226676,
+   "pctCaidas": 24.9,
+   "pctDominioPerdido": 15.5,
+   "pctTlsMal": 9.0,
+   "pctSuplantables": 81.1
+  },
+  {
+   "tld": ".es",
+   "webs": 117983,
+   "pctCaidas": 26.6,
+   "pctDominioPerdido": 17.3,
+   "pctTlsMal": 9.7,
+   "pctSuplantables": 80.6
+  },
+  {
+   "tld": "otras",
+   "webs": 10844,
+   "pctCaidas": 31.5,
+   "pctDominioPerdido": 13.9,
+   "pctTlsMal": 6.5,
+   "pctSuplantables": 76.7
+  },
+  {
+   "tld": ".net",
+   "webs": 7749,
+   "pctCaidas": 26.2,
+   "pctDominioPerdido": 17.4,
+   "pctTlsMal": 11.3,
+   "pctSuplantables": 83.3
+  },
+  {
+   "tld": ".cat",
+   "webs": 6274,
+   "pctCaidas": 26.1,
+   "pctDominioPerdido": 13.8,
+   "pctTlsMal": 15.3,
+   "pctSuplantables": 72.5
+  },
+  {
+   "tld": ".org",
+   "webs": 4585,
+   "pctCaidas": 18.3,
+   "pctDominioPerdido": 8.6,
+   "pctTlsMal": 9.4,
+   "pctSuplantables": 81.1
+  },
+  {
+   "tld": ".eu",
+   "webs": 1907,
+   "pctCaidas": 26.3,
+   "pctDominioPerdido": 16.7,
+   "pctTlsMal": 10.1,
+   "pctSuplantables": 79.3
+  },
+  {
+   "tld": ".eus",
+   "webs": 719,
+   "pctCaidas": 13.8,
+   "pctDominioPerdido": 6.1,
+   "pctTlsMal": 7.7,
+   "pctSuplantables": 77.8
+  }
+ ],
+ "tamano": [
+  {
+   "grupo": "Ciudades grandes (5.000 webs o más)",
+   "ciudades": 5,
+   "webs": 68292,
+   "pctCaidas": 26.8,
+   "pctDominioPerdido": 16.1,
+   "pctTlsMal": 8.6,
+   "pctSuplantables": 80.8
+  },
+  {
+   "grupo": "Ciudades medianas (1.000 a 4.999)",
+   "ciudades": 53,
+   "webs": 95159,
+   "pctCaidas": 25.3,
+   "pctDominioPerdido": 16.2,
+   "pctTlsMal": 8.8,
+   "pctSuplantables": 81.0
+  },
+  {
+   "grupo": "Ciudades pequeñas (200 a 999)",
+   "ciudades": 250,
+   "webs": 100335,
+   "pctCaidas": 25.4,
+   "pctDominioPerdido": 16.0,
+   "pctTlsMal": 9.2,
+   "pctSuplantables": 81.1
+  },
+  {
+   "grupo": "Pueblos (80 a 199)",
+   "ciudades": 388,
+   "webs": 48321,
+   "pctCaidas": 25.0,
+   "pctDominioPerdido": 15.5,
+   "pctTlsMal": 9.8,
+   "pctSuplantables": 79.7
+  }
+ ],
+ "territorio": [
+  {
+   "zona": "Islas (Baleares y Canarias)",
+   "webs": 31766,
+   "pctCaidas": 26.1,
+   "pctDominioPerdido": 16.2,
+   "pctTlsMal": 8.9,
+   "pctSuplantables": 84.8
+  },
+  {
+   "zona": "Península, Ceuta y Melilla",
+   "webs": 345325,
+   "pctCaidas": 25.5,
+   "pctDominioPerdido": 15.9,
+   "pctTlsMal": 9.4,
+   "pctSuplantables": 80.3
+  }
+ ],
+ "rankings": {
+  "pctCaidas": {
+   "peores": [
+    {
+     "nombre": "Castro-Urdiales",
+     "slug": "castro-urdiales",
+     "pct": 40.2,
+     "base": 234
+    },
+    {
+     "nombre": "La Línea de la Concepción",
+     "slug": "la-linea-de-la-concepcion",
+     "pct": 38.3,
+     "base": 290
+    },
+    {
+     "nombre": "Úbeda",
+     "slug": "ubeda",
+     "pct": 36.5,
+     "base": 351
+    },
+    {
+     "nombre": "Linares",
+     "slug": "linares",
+     "pct": 34.4,
+     "base": 302
+    },
+    {
+     "nombre": "Collado Villalba",
+     "slug": "collado-villalba",
+     "pct": 34.2,
+     "base": 485
+    },
+    {
+     "nombre": "el Vendrell",
+     "slug": "el-vendrell",
+     "pct": 34.0,
+     "base": 268
+    },
+    {
+     "nombre": "Cornellà de Llobregat",
+     "slug": "cornella-de-llobregat",
+     "pct": 33.1,
+     "base": 480
+    },
+    {
+     "nombre": "Granadilla de Abona",
+     "slug": "granadilla-de-abona",
+     "pct": 33.0,
+     "base": 373
+    },
+    {
+     "nombre": "Sant Feliu de Llobregat",
+     "slug": "sant-feliu-de-llobregat",
+     "pct": 32.7,
+     "base": 223
+    },
+    {
+     "nombre": "Gavà",
+     "slug": "gava",
+     "pct": 32.6,
+     "base": 316
+    }
+   ],
+   "mejores": [
+    {
+     "nombre": "Benissa",
+     "slug": "benissa",
+     "pct": 14.8,
+     "base": 236
+    },
+    {
+     "nombre": "Villena",
+     "slug": "villena",
+     "pct": 15.2,
+     "base": 387
+    },
+    {
+     "nombre": "Ames",
+     "slug": "ames",
+     "pct": 16.3,
+     "base": 221
+    },
+    {
+     "nombre": "Sanxenxo",
+     "slug": "sanxenxo",
+     "pct": 17.4,
+     "base": 344
+    },
+    {
+     "nombre": "Armilla",
+     "slug": "armilla",
+     "pct": 17.7,
+     "base": 215
+    }
+   ]
+  },
+  "pctSuplantables": {
+   "peores": [
+    {
+     "nombre": "Yaiza",
+     "slug": "yaiza",
+     "pct": 90.7,
+     "base": 257
+    },
+    {
+     "nombre": "Formentera",
+     "slug": "formentera",
+     "pct": 90.6,
+     "base": 213
+    },
+    {
+     "nombre": "Conil de la Frontera",
+     "slug": "conil-de-la-frontera",
+     "pct": 90.0,
+     "base": 280
+    },
+    {
+     "nombre": "Ciutadella de Menorca",
+     "slug": "ciutadella-de-menorca",
+     "pct": 89.8,
+     "base": 305
+    },
+    {
+     "nombre": "Villaviciosa de Odón",
+     "slug": "villaviciosa-de-odon",
+     "pct": 89.7,
+     "base": 165
+    },
+    {
+     "nombre": "Sóller",
+     "slug": "soller",
+     "pct": 89.6,
+     "base": 193
+    },
+    {
+     "nombre": "La Oliva",
+     "slug": "la-oliva",
+     "pct": 88.7,
+     "base": 379
+    },
+    {
+     "nombre": "Santa Eulària des Riu",
+     "slug": "santa-eularia-des-riu",
+     "pct": 88.5,
+     "base": 453
+    },
+    {
+     "nombre": "Parla",
+     "slug": "parla",
+     "pct": 88.3,
+     "base": 266
+    },
+    {
+     "nombre": "Mahón",
+     "slug": "mahon",
+     "pct": 88.2,
+     "base": 297
+    }
+   ],
+   "mejores": [
+    {
+     "nombre": "Igualada",
+     "slug": "igualada",
+     "pct": 65.7,
+     "base": 280
+    },
+    {
+     "nombre": "Ibi",
+     "slug": "ibi",
+     "pct": 66.7,
+     "base": 165
+    },
+    {
+     "nombre": "Torroella de Montgrí",
+     "slug": "torroella-de-montgri",
+     "pct": 67.9,
+     "base": 156
+    },
+    {
+     "nombre": "Narón",
+     "slug": "naron",
+     "pct": 67.9,
+     "base": 237
+    },
+    {
+     "nombre": "Ferrol",
+     "slug": "ferrol",
+     "pct": 68.7,
+     "base": 361
+    }
+   ]
+  },
+  "pctTlsMal": {
+   "peores": [
+    {
+     "nombre": "Olot",
+     "slug": "olot",
+     "pct": 17.7,
+     "base": 203
+    },
+    {
+     "nombre": "Torroella de Montgrí",
+     "slug": "torroella-de-montgri",
+     "pct": 17.0,
+     "base": 153
+    },
+    {
+     "nombre": "Sant Feliu de Llobregat",
+     "slug": "sant-feliu-de-llobregat",
+     "pct": 16.1,
+     "base": 149
+    },
+    {
+     "nombre": "Vic",
+     "slug": "vic",
+     "pct": 15.5,
+     "base": 362
+    },
+    {
+     "nombre": "Utrera",
+     "slug": "utrera",
+     "pct": 15.0,
+     "base": 193
+    },
+    {
+     "nombre": "Antequera",
+     "slug": "antequera",
+     "pct": 14.6,
+     "base": 260
+    },
+    {
+     "nombre": "Castelló d'Empúries",
+     "slug": "castello-d-empuries",
+     "pct": 14.6,
+     "base": 198
+    },
+    {
+     "nombre": "Mollet del Vallès",
+     "slug": "mollet-del-valles",
+     "pct": 14.5,
+     "base": 228
+    },
+    {
+     "nombre": "Castro-Urdiales",
+     "slug": "castro-urdiales",
+     "pct": 14.3,
+     "base": 140
+    },
+    {
+     "nombre": "Blanes",
+     "slug": "blanes",
+     "pct": 14.2,
+     "base": 233
+    }
+   ],
+   "mejores": [
+    {
+     "nombre": "Sarria",
+     "slug": "sarria",
+     "pct": 4.3,
+     "base": 162
+    },
+    {
+     "nombre": "Catarroja",
+     "slug": "catarroja",
+     "pct": 4.4,
+     "base": 203
+    },
+    {
+     "nombre": "Águilas",
+     "slug": "aguilas",
+     "pct": 4.5,
+     "base": 176
+    },
+    {
+     "nombre": "Pájara",
+     "slug": "pajara",
+     "pct": 4.7,
+     "base": 148
+    },
+    {
+     "nombre": "Manilva",
+     "slug": "manilva",
+     "pct": 4.8,
+     "base": 166
+    }
+   ]
+  },
+  "pctDominioPerdido": {
+   "peores": [
+    {
+     "nombre": "La Línea de la Concepción",
+     "slug": "la-linea-de-la-concepcion",
+     "pct": 23.4,
+     "base": 290
+    },
+    {
+     "nombre": "Barbate",
+     "slug": "barbate",
+     "pct": 22.7,
+     "base": 242
+    },
+    {
+     "nombre": "Collado Villalba",
+     "slug": "collado-villalba",
+     "pct": 22.5,
+     "base": 485
+    },
+    {
+     "nombre": "Santa Coloma de Gramenet",
+     "slug": "santa-coloma-de-gramenet",
+     "pct": 22.4,
+     "base": 313
+    },
+    {
+     "nombre": "Mollet del Vallès",
+     "slug": "mollet-del-valles",
+     "pct": 22.0,
+     "base": 337
+    },
+    {
+     "nombre": "Granadilla de Abona",
+     "slug": "granadilla-de-abona",
+     "pct": 21.7,
+     "base": 373
+    },
+    {
+     "nombre": "el Vendrell",
+     "slug": "el-vendrell",
+     "pct": 21.6,
+     "base": 268
+    },
+    {
+     "nombre": "Torremolinos",
+     "slug": "torremolinos",
+     "pct": 21.4,
+     "base": 927
+    },
+    {
+     "nombre": "Fuenlabrada",
+     "slug": "fuenlabrada",
+     "pct": 21.3,
+     "base": 979
+    },
+    {
+     "nombre": "Colmenar Viejo",
+     "slug": "colmenar-viejo",
+     "pct": 21.0,
+     "base": 338
+    }
+   ],
+   "mejores": [
+    {
+     "nombre": "Sóller",
+     "slug": "soller",
+     "pct": 8.8,
+     "base": 240
+    },
+    {
+     "nombre": "Barberà del Vallès",
+     "slug": "barbera-del-valles",
+     "pct": 9.0,
+     "base": 233
+    },
+    {
+     "nombre": "Camargo",
+     "slug": "camargo",
+     "pct": 9.1,
+     "base": 287
+    },
+    {
+     "nombre": "Benissa",
+     "slug": "benissa",
+     "pct": 9.7,
+     "base": 236
+    },
+    {
+     "nombre": "Pollença",
+     "slug": "pollenca",
+     "pct": 10.1,
+     "base": 298
+    }
+   ]
+  }
+ },
+ "provinciasPorCorreo": [
+  {
+   "nombre": "Segovia",
+   "slug": "provincia-de-segovia",
+   "pct": 86.3,
+   "webs": 1587
+  },
+  {
+   "nombre": "León",
+   "slug": "provincia-de-leon",
+   "pct": 85.3,
+   "webs": 3455
+  },
+  {
+   "nombre": "Illes Balears",
+   "slug": "provincia-de-illes-balears",
+   "pct": 85.1,
+   "webs": 14697
+  },
+  {
+   "nombre": "Las Palmas",
+   "slug": "provincia-de-las-palmas",
+   "pct": 84.9,
+   "webs": 8519
+  },
+  {
+   "nombre": "Santa Cruz de Tenerife",
+   "slug": "provincia-de-santa-cruz-de-tenerife",
+   "pct": 84.2,
+   "webs": 8550
+  },
+  {
+   "nombre": "Álava",
+   "slug": "provincia-de-alava",
+   "pct": 83.7,
+   "webs": 2221
+  },
+  {
+   "nombre": "Toledo",
+   "slug": "provincia-de-toledo",
+   "pct": 83.6,
+   "webs": 4561
+  },
+  {
+   "nombre": "Palencia",
+   "slug": "provincia-de-palencia",
+   "pct": 83.6,
+   "webs": 1066
+  },
+  {
+   "nombre": "Cádiz",
+   "slug": "provincia-de-cadiz",
+   "pct": 83.3,
+   "webs": 8666
+  },
+  {
+   "nombre": "Guadalajara",
+   "slug": "provincia-de-guadalajara",
+   "pct": 83.2,
+   "webs": 1649
+  },
+  {
+   "nombre": "Ávila",
+   "slug": "provincia-de-avila",
+   "pct": 83.0,
+   "webs": 1456
+  },
+  {
+   "nombre": "Madrid",
+   "slug": "provincia-de-madrid",
+   "pct": 82.8,
+   "webs": 49077
+  },
+  {
+   "nombre": "La Rioja",
+   "slug": "provincia-de-la-rioja",
+   "pct": 82.3,
+   "webs": 2664
+  },
+  {
+   "nombre": "Asturias",
+   "slug": "provincia-de-asturias",
+   "pct": 82.2,
+   "webs": 8716
+  },
+  {
+   "nombre": "Málaga",
+   "slug": "provincia-de-malaga",
+   "pct": 82.1,
+   "webs": 19531
+  },
+  {
+   "nombre": "Granada",
+   "slug": "provincia-de-granada",
+   "pct": 82.0,
+   "webs": 7929
+  },
+  {
+   "nombre": "Ciudad Real",
+   "slug": "provincia-de-ciudad-real",
+   "pct": 81.8,
+   "webs": 2997
+  },
+  {
+   "nombre": "Sevilla",
+   "slug": "provincia-de-sevilla",
+   "pct": 81.7,
+   "webs": 12793
+  },
+  {
+   "nombre": "Valencia",
+   "slug": "provincia-de-valencia",
+   "pct": 81.6,
+   "webs": 21140
+  },
+  {
+   "nombre": "Huelva",
+   "slug": "provincia-de-huelva",
+   "pct": 81.6,
+   "webs": 4189
+  },
+  {
+   "nombre": "Teruel",
+   "slug": "provincia-de-teruel",
+   "pct": 81.6,
+   "webs": 1341
+  },
+  {
+   "nombre": "Cantabria",
+   "slug": "provincia-de-cantabria",
+   "pct": 81.3,
+   "webs": 5459
+  },
+  {
+   "nombre": "Gipuzkoa",
+   "slug": "provincia-de-gipuzkoa",
+   "pct": 81.1,
+   "webs": 5104
+  },
+  {
+   "nombre": "Valladolid",
+   "slug": "provincia-de-valladolid",
+   "pct": 81.0,
+   "webs": 3879
+  },
+  {
+   "nombre": "Melilla",
+   "slug": "provincia-de-melilla",
+   "pct": 81.0,
+   "webs": 230
+  },
+  {
+   "nombre": "Bizkaia",
+   "slug": "provincia-de-bizkaia",
+   "pct": 80.9,
+   "webs": 6863
+  },
+  {
+   "nombre": "Cuenca",
+   "slug": "provincia-de-cuenca",
+   "pct": 80.7,
+   "webs": 1389
+  },
+  {
+   "nombre": "Almería",
+   "slug": "provincia-de-almeria",
+   "pct": 80.4,
+   "webs": 4864
+  },
+  {
+   "nombre": "Murcia",
+   "slug": "provincia-de-murcia",
+   "pct": 80.2,
+   "webs": 10645
+  },
+  {
+   "nombre": "Navarra",
+   "slug": "provincia-de-navarra",
+   "pct": 80.1,
+   "webs": 4713
+  },
+  {
+   "nombre": "Huesca",
+   "slug": "provincia-de-huesca",
+   "pct": 80.1,
+   "webs": 2554
+  },
+  {
+   "nombre": "Castellón",
+   "slug": "provincia-de-castellon",
+   "pct": 79.9,
+   "webs": 4919
+  },
+  {
+   "nombre": "Jaén",
+   "slug": "provincia-de-jaen",
+   "pct": 79.9,
+   "webs": 3674
+  },
+  {
+   "nombre": "Burgos",
+   "slug": "provincia-de-burgos",
+   "pct": 79.9,
+   "webs": 3037
+  },
+  {
+   "nombre": "Alicante",
+   "slug": "provincia-de-alicante",
+   "pct": 79.5,
+   "webs": 20937
+  },
+  {
+   "nombre": "Tarragona",
+   "slug": "provincia-de-tarragona",
+   "pct": 79.5,
+   "webs": 6643
+  },
+  {
+   "nombre": "Cáceres",
+   "slug": "provincia-de-caceres",
+   "pct": 79.3,
+   "webs": 2766
+  },
+  {
+   "nombre": "Córdoba",
+   "slug": "provincia-de-cordoba",
+   "pct": 79.0,
+   "webs": 5171
+  },
+  {
+   "nombre": "Badajoz",
+   "slug": "provincia-de-badajoz",
+   "pct": 78.6,
+   "webs": 4010
+  },
+  {
+   "nombre": "A Coruña",
+   "slug": "provincia-de-a-coruna",
+   "pct": 78.3,
+   "webs": 8926
+  },
+  {
+   "nombre": "Lugo",
+   "slug": "provincia-de-lugo",
+   "pct": 78.2,
+   "webs": 2759
+  },
+  {
+   "nombre": "Barcelona",
+   "slug": "provincia-de-barcelona",
+   "pct": 77.6,
+   "webs": 45569
+  },
+  {
+   "nombre": "Zaragoza",
+   "slug": "provincia-de-zaragoza",
+   "pct": 77.6,
+   "webs": 6418
+  },
+  {
+   "nombre": "Salamanca",
+   "slug": "provincia-de-salamanca",
+   "pct": 77.6,
+   "webs": 2974
+  },
+  {
+   "nombre": "Pontevedra",
+   "slug": "provincia-de-pontevedra",
+   "pct": 77.1,
+   "webs": 7509
+  },
+  {
+   "nombre": "Albacete",
+   "slug": "provincia-de-albacete",
+   "pct": 76.8,
+   "webs": 2686
+  },
+  {
+   "nombre": "Girona",
+   "slug": "provincia-de-girona",
+   "pct": 76.4,
+   "webs": 8515
+  },
+  {
+   "nombre": "Ourense",
+   "slug": "provincia-de-ourense",
+   "pct": 75.9,
+   "webs": 2037
+  },
+  {
+   "nombre": "Zamora",
+   "slug": "provincia-de-zamora",
+   "pct": 75.1,
+   "webs": 1318
+  },
+  {
+   "nombre": "Lleida",
+   "slug": "provincia-de-lleida",
+   "pct": 74.7,
+   "webs": 3834
+  },
+  {
+   "nombre": "Soria",
+   "slug": "provincia-de-soria",
+   "pct": 72.8,
+   "webs": 884
+  }
+ ],
+ "titulares": [
+  {
+   "t": "222.881 negocios de España pueden ser suplantados por correo hoy mismo",
+   "d": "El 80,7 % de los que tienen correo propio no tiene la protección que lo impide (DMARC)."
+  },
+  {
+   "t": "15.139 webs de negocios se quedan sin candado en los próximos 30 días",
+   "d": "Su certificado caduca antes de un mes desde la medición; 568 de ellas, en menos de una semana."
+  },
+  {
+   "t": "60.053 negocios siguen anunciando una web cuyo dominio ya no existe",
+   "d": "Casi todos esos dominios se pueden registrar por unos 10 €: quien lo haga recibe los correos de ese negocio."
+  },
+  {
+   "t": "Las farmacias, el sector más suplantable: 85,1 %",
+   "d": "Sobre 2.631 con correo propio. El que mejor está, abogados, gestorías y seguros, sigue en el 75,9 %."
+  },
+  {
+   "t": "Los bares y cafeterías: 39,5 % de webs que no abren",
+   "d": "El sector con más webs caídas, de 12.855 revisadas."
+  },
+  {
+   "t": "159 dominios tienen un SPF que autoriza a cualquiera a mandar en su nombre",
+   "d": "Su registro termina en «+all» o «all»: no solo no protege, invita."
+  },
+  {
+   "t": "11.796 negocios no tienen ni SPF ni DMARC",
+   "d": "El 4,3 % de los que tienen correo propio: ninguna de las dos protecciones básicas."
+  },
+  {
+   "t": "Castro-Urdiales: 40,2 % de webs que no abren, récord de España",
+   "d": "Entre las 308 ciudades con 200 webs o más."
+  },
+  {
+   "t": "Segovia, la provincia con más correo suplantable: 86,3 %",
+   "d": "Y Soria, la que menos: 72,8 %."
+  },
+  {
+   "t": "Con Webempresa, el 98,9 % de los dominios se puede suplantar",
+   "d": "Con Raiola Networks, el 50,1 %. La protección la pone cada negocio, pero el proveedor pesa."
+  },
+  {
+   "t": "311 webs de negocios responden «pago requerido»",
+   "d": "El código 402, el que enseñan algunos proveedores cuando la cuenta está suspendida."
+  },
+  {
+   "t": "33 negocios escribieron mal su protección del correo",
+   "d": "Pusieron «quarentine», «rejet» o algo parecido en su DMARC. Un error de una letra que la deja sin efecto."
+  }
+ ]
+}

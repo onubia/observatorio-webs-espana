@@ -1,0 +1,697 @@
+nombre,slug,provincia,webs,caidas,pctCaidas,dominioPerdido,pctDominioPerdido,tlsMal,pctTlsMal,conTls,conCorreo,suplantables,pctSuplantables
+Madrid,madrid,Madrid,27740,7189,25.9,4362,15.7,1731,8.5,20438,19958,16447,82.4
+Barcelona,barcelona,Barcelona,19910,5670,28.5,3210,16.1,1375,9.7,14170,14318,11219,78.4
+Valencia,valencia,Valencia,9154,2441,26.7,1525,16.7,488,7.3,6665,6650,5463,82.2
+Sevilla,sevilla,Sevilla,6216,1669,26.9,1048,16.9,382,8.4,4521,4503,3664,81.4
+Málaga,malaga,Málaga,5272,1352,25.6,845,16.0,308,7.9,3897,3881,3056,78.7
+Palma,palma,Illes Balears,4714,1228,26.1,749,15.9,286,8.3,3462,3452,2894,83.8
+Zaragoza,zaragoza,Zaragoza,4655,1149,24.7,713,15.3,311,8.9,3485,3474,2669,76.8
+Marbella,marbella,Málaga,3820,939,24.6,585,15.3,182,6.3,2868,2811,2347,83.5
+Alicante,alicante,Alicante,3690,891,24.1,614,16.6,219,7.9,2786,2664,2179,81.8
+Murcia,murcia,Murcia,3671,954,26.0,645,17.6,254,9.4,2699,2636,2119,80.4
+Granada,granada,Granada,3143,778,24.8,507,16.1,191,8.1,2352,2256,1838,81.5
+Bilbao,bilbao,Bizkaia,3028,785,25.9,477,15.8,222,10.0,2224,2244,1844,82.2
+Córdoba,cordoba,Córdoba,2712,649,23.9,435,16.0,164,8.0,2056,2051,1595,77.8
+Las Palmas de Gran Canaria,las-palmas-de-gran-canaria,Las Palmas,2649,724,27.3,442,16.7,193,10.1,1915,1928,1618,83.9
+Vigo,vigo,Pontevedra,2499,550,22.0,361,14.4,170,8.8,1934,1915,1459,76.2
+Valladolid,valladolid,Valladolid,2437,552,22.7,337,13.8,168,9.0,1869,1883,1554,82.5
+A Coruña,a-coruna,A Coruña,2421,589,24.3,393,16.2,156,8.6,1821,1774,1452,81.8
+Gijón,gijon,Asturias,2181,561,25.7,350,16.0,157,9.8,1608,1572,1270,80.8
+Elche,elche,Alicante,2006,481,24.0,321,16.0,126,8.3,1515,1493,1159,77.6
+Oviedo,oviedo,Asturias,1965,539,27.4,359,18.3,163,11.5,1422,1408,1152,81.8
+San Sebastián,san-sebastian,Gipuzkoa,1864,459,24.6,259,13.9,117,8.4,1400,1373,1142,83.2
+Santander,santander,Cantabria,1831,533,29.1,350,19.1,126,9.8,1287,1268,1033,81.5
+Santa Cruz de Tenerife,santa-cruz-de-tenerife,Santa Cruz de Tenerife,1695,457,27.0,304,17.9,112,9.1,1229,1211,1007,83.2
+Vitoria-Gasteiz,vitoria-gasteiz,Álava,1676,403,24.0,263,15.7,121,9.6,1260,1256,1055,84.0
+Pamplona,pamplona,Navarra,1641,377,23.0,247,15.1,117,9.3,1254,1228,1006,81.9
+Salamanca,salamanca,Salamanca,1623,407,25.1,282,17.4,105,8.7,1204,1173,890,75.9
+Castellón de la Plana,castellon-de-la-plana,Castellón,1608,387,24.1,236,14.7,109,9.0,1214,1219,996,81.7
+Burgos,burgos,Burgos,1564,358,22.9,214,13.7,104,8.7,1199,1197,956,79.9
+Almería,almeria,Almería,1478,397,26.9,259,17.5,91,8.5,1074,1070,844,78.9
+Jerez de la Frontera,jerez-de-la-frontera,Cádiz,1472,382,26.0,251,17.1,87,8.1,1078,1078,878,81.4
+Santiago de Compostela,santiago-de-compostela,A Coruña,1451,262,18.1,175,12.1,109,9.2,1182,1154,924,80.1
+Torrevieja,torrevieja,Alicante,1363,306,22.5,204,15.0,68,6.5,1053,984,803,81.6
+Albacete,albacete,Albacete,1362,317,23.3,200,14.7,87,8.3,1042,994,772,77.7
+Cartagena,cartagena,Murcia,1343,377,28.1,245,18.2,98,10.2,963,943,769,81.5
+Huelva,huelva,Huelva,1338,269,20.1,177,13.2,91,8.6,1062,1019,813,79.8
+Logroño,logrono,La Rioja,1337,340,25.4,207,15.5,120,12.1,993,1006,831,82.6
+Sabadell,sabadell,Barcelona,1328,367,27.6,237,17.8,124,12.9,958,939,748,79.7
+Alcalá de Henares,alcala-de-henares,Madrid,1269,369,29.1,253,19.9,74,8.3,895,893,737,82.5
+Terrassa,terrassa,Barcelona,1269,383,30.2,223,17.6,79,9.0,881,924,708,76.6
+León,leon,León,1245,295,23.7,197,15.8,79,8.4,944,931,795,85.4
+Badajoz,badajoz,Badajoz,1238,288,23.3,201,16.2,60,6.4,943,937,764,81.5
+Fuengirola,fuengirola,Málaga,1227,320,26.1,222,18.1,81,9.0,903,849,733,86.3
+Ibiza,ibiza,Illes Balears,1191,320,26.9,210,17.6,89,10.2,869,829,703,84.8
+Lleida,lleida,Lleida,1168,285,24.4,165,14.1,98,11.2,874,892,677,75.9
+Orihuela,orihuela,Alicante,1150,260,22.6,149,13.0,58,6.6,884,863,692,80.2
+Toledo,toledo,Toledo,1140,282,24.7,186,16.3,69,8.1,850,829,689,83.1
+Girona,girona,Girona,1111,289,26.0,177,15.9,92,11.3,816,839,633,75.4
+Mijas,mijas,Málaga,1101,267,24.3,161,14.6,54,6.5,830,826,683,82.7
+Benidorm,benidorm,Alicante,1099,296,26.9,189,17.2,56,7.1,794,773,590,76.3
+Arona,arona,Santa Cruz de Tenerife,1077,312,29.0,217,20.1,55,7.2,760,707,594,84.0
+Tarragona,tarragona,Tarragona,1069,277,25.9,183,17.1,62,7.9,786,756,610,80.7
+San Cristóbal de La Laguna,san-cristobal-de-la-laguna,Santa Cruz de Tenerife,1057,315,29.8,197,18.6,69,9.4,734,758,632,83.4
+L'Hospitalet de Llobregat,l-hospitalet-de-llobregat,Barcelona,1048,300,28.6,188,17.9,77,10.4,743,750,565,75.3
+Badalona,badalona,Barcelona,1039,316,30.4,191,18.4,67,9.3,717,713,567,79.5
+Estepona,estepona,Málaga,1034,245,23.7,162,15.7,52,6.6,783,752,646,85.9
+Móstoles,mostoles,Madrid,1032,294,28.5,199,19.3,67,9.1,734,717,599,83.5
+Mataró,mataro,Barcelona,1019,313,30.7,184,18.1,63,8.9,704,735,560,76.2
+San Bartolomé de Tirajana,san-bartolome-de-tirajana,Las Palmas,1011,301,29.8,184,18.2,67,9.5,705,687,583,84.9
+Lugo,lugo,Lugo,996,207,20.8,135,13.6,71,9.1,784,765,601,78.6
+Jaén,jaen,Jaén,986,243,24.6,153,15.5,63,8.5,740,747,619,82.9
+Fuenlabrada,fuenlabrada,Madrid,979,298,30.4,209,21.3,67,9.9,677,666,566,85.0
+Alcorcón,alcorcon,Madrid,973,245,25.2,154,15.8,59,8.2,721,721,603,83.6
+Leganés,leganes,Madrid,932,246,26.4,159,17.1,56,8.2,682,649,534,82.3
+Torremolinos,torremolinos,Málaga,927,281,30.3,198,21.4,57,8.9,642,630,541,85.9
+Adeje,adeje,Santa Cruz de Tenerife,926,262,28.3,156,16.8,53,8.0,663,634,531,83.8
+Benalmádena,benalmadena,Málaga,925,249,26.9,164,17.7,56,8.3,672,642,539,84.0
+Las Rozas de Madrid,las-rozas-de-madrid,Madrid,923,212,23.0,129,14.0,55,7.8,706,710,584,82.3
+Getafe,getafe,Madrid,905,222,24.5,152,16.8,55,8.1,678,648,528,81.5
+Reus,reus,Tarragona,905,250,27.6,154,17.0,67,10.3,649,674,528,78.3
+Denia,denia,Alicante,899,204,22.7,134,14.9,50,7.2,692,671,555,82.7
+Alcobendas,alcobendas,Madrid,883,222,25.1,138,15.6,55,8.4,657,656,525,80.0
+Cáceres,caceres,Cáceres,869,218,25.1,104,12.0,78,12.1,647,670,512,76.4
+Ourense,ourense,Ourense,847,196,23.1,132,15.6,58,9.0,648,621,476,76.7
+Sant Cugat del Vallès,sant-cugat-del-valles,Barcelona,844,249,29.5,151,17.9,50,8.4,595,617,498,80.7
+Cádiz,cadiz,Cádiz,838,212,25.3,128,15.3,66,10.6,623,618,494,79.9
+Calvià,calvia,Illes Balears,832,198,23.8,121,14.5,46,7.3,628,614,521,84.9
+Dos Hermanas,dos-hermanas,Sevilla,774,176,22.7,125,16.1,58,9.8,594,570,458,80.4
+Pontevedra,pontevedra,Pontevedra,770,170,22.1,110,14.3,48,8.0,597,581,443,76.2
+Vélez-Málaga,velez-malaga,Málaga,743,188,25.3,107,14.4,49,8.9,551,567,415,73.2
+Pozuelo de Alarcón,pozuelo-de-alarcon,Madrid,740,198,26.8,130,17.6,44,8.2,539,549,468,85.2
+San Sebastián de los Reyes,san-sebastian-de-los-reyes,Madrid,731,191,26.1,125,17.1,48,8.9,538,520,428,82.3
+Manresa,manresa,Barcelona,724,210,29.0,123,17.0,66,12.9,512,521,400,76.8
+Vilanova i la Geltrú,vilanova-i-la-geltru,Barcelona,724,182,25.1,110,15.2,41,7.6,539,542,436,80.4
+Chiclana de la Frontera,chiclana-de-la-frontera,Cádiz,723,182,25.2,107,14.8,50,9.3,539,534,449,84.1
+Torrejón de Ardoz,torrejon-de-ardoz,Madrid,722,190,26.3,124,17.2,30,5.7,527,531,404,76.1
+Gandía,gandia,Valencia,697,191,27.4,119,17.1,44,8.7,503,507,422,83.2
+El Puerto de Santa María,el-puerto-de-santa-maria,Cádiz,670,167,24.9,115,17.2,42,8.4,499,477,395,82.8
+Guadalajara,guadalajara,Guadalajara,669,175,26.2,107,16.0,47,9.6,492,472,392,83.1
+Granollers,granollers,Barcelona,662,164,24.8,89,13.4,53,10.6,498,510,394,77.3
+Majadahonda,majadahonda,Madrid,658,168,25.5,105,16.0,41,8.4,490,489,426,87.1
+Jávea,javea,Alicante,658,126,19.1,74,11.2,28,5.3,530,508,416,81.9
+Talavera de la Reina,talavera-de-la-reina,Toledo,644,145,22.5,101,15.7,47,9.5,497,477,396,83.0
+Torrent,torrent,Valencia,631,178,28.2,120,19.0,42,9.3,452,440,362,82.3
+Algeciras,algeciras,Cádiz,627,182,29.0,114,18.2,47,10.6,442,455,381,83.7
+Santa Eulària des Riu,santa-eularia-des-riu,Illes Balears,618,159,25.7,89,14.4,47,10.3,457,453,401,88.5
+Roquetas de Mar,roquetas-de-mar,Almería,613,181,29.5,127,20.7,26,6.0,431,408,333,81.6
+Segovia,segovia,Segovia,609,139,22.8,105,17.2,54,11.6,466,454,394,86.8
+Zamora,zamora,Zamora,598,125,20.9,86,14.4,42,8.9,472,436,321,73.6
+Palencia,palencia,Palencia,595,155,26.1,96,16.1,45,10.2,440,435,368,84.6
+Alcalá de Guadaíra,alcala-de-guadaira,Sevilla,593,145,24.5,84,14.2,31,7.0,446,455,367,80.7
+Paterna,paterna,Valencia,582,118,20.3,62,10.7,45,9.7,464,452,361,79.9
+Motril,motril,Granada,580,142,24.5,101,17.4,43,9.8,437,425,370,87.1
+Ciudad Real,ciudad-real,Ciudad Real,580,139,24.0,95,16.4,43,9.9,436,441,354,80.3
+Ávila,avila,Ávila,573,165,28.8,118,20.6,42,10.3,407,389,300,77.1
+Sitges,sitges,Barcelona,572,168,29.4,107,18.7,40,9.9,404,406,333,82.0
+Rivas-Vaciamadrid,rivas-vaciamadrid,Madrid,570,148,26.0,95,16.7,25,6.0,420,424,370,87.3
+Castelldefels,castelldefels,Barcelona,559,162,29.0,99,17.7,42,10.6,396,392,314,80.1
+La Oliva,la-oliva,Las Palmas,546,138,25.3,85,15.6,23,5.7,406,379,336,88.7
+Lorca,lorca,Murcia,541,125,23.1,80,14.8,29,7.0,412,408,318,77.9
+Altea,altea,Alicante,532,150,28.2,97,18.2,20,5.3,378,375,295,78.7
+Ponferrada,ponferrada,León,530,118,22.3,77,14.5,34,8.3,410,390,332,85.1
+Vic,vic,Barcelona,519,154,29.7,79,15.2,56,15.5,362,392,285,72.7
+Sant Josep de sa Talaia,sant-josep-de-sa-talaia,Illes Balears,519,122,23.5,73,14.1,33,8.3,397,387,331,85.5
+Huesca,huesca,Huesca,510,108,21.2,66,12.9,47,11.7,402,404,329,81.4
+Ferrol,ferrol,A Coruña,508,138,27.2,81,15.9,41,11.2,367,361,248,68.7
+Molina de Segura,molina-de-segura,Murcia,500,140,28.0,87,17.4,45,12.6,358,360,292,81.1
+San Vicente del Raspeig,san-vicente-del-raspeig,Alicante,499,128,25.7,93,18.6,27,7.3,369,365,292,80.0
+Cuenca,cuenca,Cuenca,499,125,25.1,90,18.0,34,9.1,373,361,287,79.5
+Mérida,merida,Badajoz,499,123,24.6,65,13.0,39,10.4,375,376,293,77.9
+Collado Villalba,collado-villalba,Madrid,485,166,34.2,109,22.5,26,8.2,317,314,259,82.5
+Valdemoro,valdemoro,Madrid,485,148,30.5,99,20.4,23,6.9,335,331,279,84.3
+El Ejido,el-ejido,Almería,485,121,24.9,83,17.1,36,10.1,356,353,287,81.3
+Arrecife,arrecife,Las Palmas,482,133,27.6,89,18.5,27,7.7,349,342,292,85.4
+Cornellà de Llobregat,cornella-de-llobregat,Barcelona,480,159,33.1,96,20.0,37,11.7,317,338,264,78.1
+Tarifa,tarifa,Cádiz,468,121,25.9,69,14.7,29,8.4,344,338,291,86.1
+Boadilla del Monte,boadilla-del-monte,Madrid,468,138,29.5,84,17.9,23,7.0,329,339,283,83.5
+Coslada,coslada,Madrid,464,118,25.4,87,18.8,39,11.4,341,340,275,80.9
+Lloret de Mar,lloret-de-mar,Girona,462,140,30.3,84,18.2,39,12.1,322,324,241,74.4
+Figueres,figueres,Girona,460,130,28.3,86,18.7,45,13.6,330,328,259,79.0
+Avilés,aviles,Asturias,460,129,28.0,78,17.0,38,11.5,331,321,267,83.2
+Nerja,nerja,Málaga,459,101,22.0,68,14.8,38,10.6,358,337,283,84.0
+Telde,telde,Las Palmas,456,99,21.7,66,14.5,40,11.3,353,338,283,83.7
+Siero,siero,Asturias,455,106,23.3,68,14.9,44,12.7,347,346,272,78.6
+Alcoy,alcoy,Alicante,443,87,19.6,71,16.0,34,9.6,353,339,247,72.9
+Irún,irun,Gipuzkoa,442,101,22.9,65,14.7,20,6.0,335,324,246,75.9
+Rubí,rubi,Barcelona,434,107,24.7,62,14.3,28,8.6,327,335,271,80.9
+Tres Cantos,tres-cantos,Madrid,430,100,23.3,68,15.8,19,5.8,328,308,248,80.5
+Sagunto,sagunto,Valencia,430,109,25.3,58,13.5,28,8.8,318,320,267,83.4
+Barakaldo,barakaldo,Bizkaia,430,123,28.6,72,16.7,25,8.2,304,314,256,81.5
+Getxo,getxo,Bizkaia,430,129,30.0,70,16.3,26,8.7,300,312,256,82.1
+Sanlúcar de Barrameda,sanlucar-de-barrameda,Cádiz,428,105,24.5,70,16.4,38,11.8,321,310,266,85.8
+Santa Pola,santa-pola,Alicante,427,105,24.6,71,16.6,20,6.2,320,302,226,74.8
+Puerto de la Cruz,puerto-de-la-cruz,Santa Cruz de Tenerife,427,116,27.2,74,17.3,25,8.1,309,287,240,83.6
+Calpe,calpe,Alicante,424,111,26.2,74,17.5,20,6.4,312,302,257,85.1
+Torrelavega,torrelavega,Cantabria,419,108,25.8,69,16.5,30,9.7,308,304,243,79.9
+Ciutadella de Menorca,ciutadella-de-menorca,Illes Balears,415,90,21.7,61,14.7,24,7.4,325,305,274,89.8
+Elda,elda,Alicante,414,105,25.4,66,15.9,22,7.2,307,316,243,76.9
+Mairena del Aljarafe,mairena-del-aljarafe,Sevilla,411,98,23.8,56,13.6,27,8.7,312,325,265,81.5
+Parla,parla,Madrid,406,128,31.5,83,20.4,25,9.0,278,266,235,88.3
+Sant Antoni de Portmany,sant-antoni-de-portmany,Illes Balears,402,105,26.1,75,18.7,32,10.8,297,284,241,84.9
+Soria,soria,Soria,402,73,18.2,58,14.4,24,7.3,328,298,251,84.2
+Manacor,manacor,Illes Balears,397,99,24.9,67,16.9,22,7.4,297,286,246,86.0
+Mahón,mahon,Illes Balears,389,86,22.1,53,13.6,23,7.6,302,297,262,88.2
+Teruel,teruel,Teruel,388,88,22.7,64,16.5,33,11.1,298,295,234,79.3
+Villena,villena,Alicante,387,59,15.2,49,12.7,34,10.4,328,306,211,69.0
+San Javier,san-javier,Murcia,384,98,25.5,71,18.5,23,8.2,281,271,218,80.4
+Llanes,llanes,Asturias,379,71,18.7,41,10.8,31,10.1,308,278,240,86.3
+Vila-real,vila-real,Castellón,379,99,26.1,67,17.7,20,7.2,278,271,227,83.8
+Vilafranca del Penedès,vilafranca-del-penedes,Barcelona,378,92,24.3,55,14.6,34,11.9,285,289,225,77.9
+San Roque,san-roque,Cádiz,377,88,23.3,58,15.4,18,6.3,285,276,235,85.1
+Plasencia,plasencia,Cáceres,377,90,23.9,62,16.4,29,10.2,285,290,230,79.3
+Teulada,teulada,Alicante,376,68,18.1,45,12.0,24,7.8,307,291,249,85.6
+Mogán,mogan,Las Palmas,374,119,31.8,67,17.9,23,9.1,253,235,200,85.1
+Conil de la Frontera,conil-de-la-frontera,Cádiz,373,84,22.5,52,13.9,23,8.0,287,280,252,90.0
+Granadilla de Abona,granadilla-de-abona,Santa Cruz de Tenerife,373,123,33.0,81,21.7,12,4.8,250,246,209,85.0
+Igualada,igualada,Barcelona,371,100,27.0,60,16.2,31,11.5,270,280,184,65.7
+el Prat de Llobregat,el-prat-de-llobregat,Barcelona,365,116,31.8,75,20.5,24,9.7,247,243,170,70.0
+Pinto,pinto,Madrid,363,107,29.5,74,20.4,29,11.4,254,261,216,82.8
+Yaiza,yaiza,Las Palmas,359,82,22.8,45,12.5,19,6.9,277,257,233,90.7
+Tudela,tudela,Navarra,358,79,22.1,39,10.9,30,10.9,275,281,230,81.9
+Sant Boi de Llobregat,sant-boi-de-llobregat,Barcelona,357,100,28.0,54,15.1,33,13.0,254,253,204,80.6
+Ronda,ronda,Málaga,355,85,23.9,53,14.9,31,11.5,269,259,206,79.5
+Lucena,lucena,Córdoba,355,72,20.3,47,13.2,24,8.5,281,261,210,80.5
+San Fernando,san-fernando,Cádiz,354,96,27.1,63,17.8,24,9.4,254,250,211,84.4
+Tías,tias,Las Palmas,354,90,25.4,56,15.8,17,6.5,261,252,210,83.3
+Cambrils,cambrils,Tarragona,352,105,29.8,63,17.9,16,6.5,245,252,200,79.4
+Úbeda,ubeda,Jaén,351,128,36.5,57,16.2,22,9.9,222,266,204,76.7
+Salou,salou,Tarragona,350,96,27.4,66,18.9,31,12.3,252,240,199,82.9
+Alzira,alzira,Valencia,346,99,28.6,62,17.9,23,9.4,244,252,215,85.3
+Alhaurín de la Torre,alhaurin-de-la-torre,Málaga,345,89,25.8,51,14.8,24,9.4,256,252,205,81.3
+Arganda del Rey,arganda-del-rey,Madrid,344,110,32.0,65,18.9,31,13.2,234,230,194,84.3
+Sanxenxo,sanxenxo,Pontevedra,344,60,17.4,37,10.8,29,10.2,283,273,211,77.3
+Antequera,antequera,Málaga,342,78,22.8,49,14.3,38,14.6,260,263,222,84.4
+Colmenar Viejo,colmenar-viejo,Madrid,338,108,32.0,71,21.0,20,8.8,227,228,182,79.8
+Mollet del Vallès,mollet-del-valles,Barcelona,337,108,32.0,74,22.0,33,14.5,228,228,177,77.6
+Almuñécar,almunecar,Granada,334,90,26.9,68,20.4,22,9.1,242,222,184,82.9
+Cerdanyola del Vallès,cerdanyola-del-valles,Barcelona,334,95,28.4,65,19.5,19,8.1,236,233,179,76.8
+Santanyí,santanyi,Illes Balears,334,81,24.3,42,12.6,32,12.6,253,258,220,85.3
+Blanes,blanes,Girona,333,100,30.0,58,17.4,33,14.2,233,225,162,72.0
+Ayamonte,ayamonte,Huelva,323,63,19.5,39,12.1,17,6.5,260,236,186,78.8
+La Orotava,la-orotava,Santa Cruz de Tenerife,323,101,31.3,64,19.8,26,11.8,221,223,193,86.5
+Aranjuez,aranjuez,Madrid,321,88,27.4,64,19.9,20,8.6,232,217,175,80.6
+Viladecans,viladecans,Barcelona,319,73,22.9,50,15.7,23,9.5,242,233,182,78.1
+Xàtiva,xativa,Valencia,318,81,25.5,53,16.7,18,7.6,237,240,179,74.6
+Inca,inca,Illes Balears,317,61,19.2,36,11.4,30,11.7,256,246,213,86.6
+Alcantarilla,alcantarilla,Murcia,317,75,23.7,50,15.8,18,7.4,242,243,204,84.0
+Gavà,gava,Barcelona,316,103,32.6,59,18.7,22,10.5,210,217,170,78.3
+Alfaz del Pi,alfaz-del-pi,Alicante,314,78,24.8,43,13.7,20,8.5,236,235,178,75.7
+Santa Coloma de Gramenet,santa-coloma-de-gramenet,Barcelona,313,100,31.9,70,22.4,22,10.4,212,206,174,84.5
+Tomelloso,tomelloso,Ciudad Real,312,57,18.3,36,11.5,24,9.4,254,251,212,84.5
+Tortosa,tortosa,Tarragona,309,82,26.5,40,12.9,23,10.2,225,240,176,73.3
+Narón,naron,A Coruña,305,58,19.0,41,13.4,23,9.3,246,237,161,67.9
+Yecla,yecla,Murcia,304,55,18.1,35,11.5,23,9.2,249,252,180,71.4
+Linares,linares,Jaén,302,104,34.4,54,17.9,25,12.7,197,213,159,74.6
+Lepe,lepe,Huelva,300,66,22.0,44,14.7,23,9.8,234,223,178,79.8
+Vilagarcía de Arousa,vilagarcia-de-arousa,Pontevedra,300,59,19.7,39,13.0,18,7.5,240,240,178,74.2
+Pollença,pollenca,Illes Balears,298,55,18.5,30,10.1,15,6.2,243,234,194,82.9
+Rincón de la Victoria,rincon-de-la-victoria,Málaga,293,88,30.0,60,20.5,16,7.8,204,197,172,87.3
+Alcúdia,alcudia,Illes Balears,293,72,24.6,43,14.7,18,8.2,219,218,176,80.7
+Alcázar de San Juan,alcazar-de-san-juan,Ciudad Real,292,63,21.6,41,14.0,12,5.2,229,227,172,75.8
+La Línea de la Concepción,la-linea-de-la-concepcion,Cádiz,290,111,38.3,68,23.4,15,8.5,177,185,153,82.7
+Olot,olot,Girona,288,82,28.5,31,10.8,36,17.7,203,229,168,73.4
+Camargo,camargo,Cantabria,287,66,23.0,26,9.1,17,7.8,219,222,165,74.3
+Illescas,illescas,Toledo,281,82,29.2,55,19.6,14,7.1,198,194,167,86.1
+Don Benito,don-benito,Badajoz,281,65,23.1,42,14.9,24,11.1,216,216,172,79.6
+Mazarrón,mazarron,Murcia,275,67,24.4,36,13.1,19,9.1,208,204,174,85.3
+San Pedro del Pinatar,san-pedro-del-pinatar,Murcia,275,62,22.5,39,14.2,19,9.0,210,211,174,82.5
+Torre Pacheco,torre-pacheco,Murcia,272,57,21.0,35,12.9,17,7.9,214,204,159,77.9
+Almendralejo,almendralejo,Badajoz,270,59,21.9,40,14.8,18,8.5,211,214,149,69.6
+Vinaròs,vinaros,Castellón,270,59,21.9,38,14.1,14,6.7,210,208,162,77.9
+Formentera,formentera,Illes Balears,269,54,20.1,35,13.0,25,11.6,215,213,193,90.6
+Pilar de la Horadada,pilar-de-la-horadada,Alicante,269,57,21.2,32,11.9,19,9.0,210,199,154,77.4
+el Vendrell,el-vendrell,Tarragona,268,91,34.0,58,21.6,19,10.7,177,180,147,81.7
+Roses,roses,Girona,267,60,22.5,35,13.1,24,11.7,206,196,156,79.6
+Aranda de Duero,aranda-de-duero,Burgos,267,60,22.5,33,12.4,24,11.7,205,212,167,78.8
+Castelló d'Empúries,castello-d-empuries,Girona,267,68,25.5,38,14.2,29,14.6,198,194,151,77.8
+Catarroja,catarroja,Valencia,265,61,23.0,33,12.5,9,4.4,203,197,164,83.2
+Teguise,teguise,Las Palmas,265,68,25.7,34,12.8,14,7.2,195,190,167,87.9
+Palafrugell,palafrugell,Girona,264,57,21.6,41,15.5,28,13.7,205,201,160,79.6
+Puerto del Rosario,puerto-del-rosario,Las Palmas,263,70,26.6,48,18.3,15,7.9,191,184,153,83.2
+Villajoyosa,villajoyosa,Alicante,262,69,26.3,44,16.8,19,9.9,191,195,154,79.0
+Esplugues de Llobregat,esplugues-de-llobregat,Barcelona,261,76,29.1,51,19.5,19,10.3,185,183,141,77.0
+El Campello,el-campello,Alicante,260,73,28.1,46,17.7,15,8.0,187,180,150,83.3
+Llucmajor,llucmajor,Illes Balears,259,70,27.0,41,15.8,16,8.5,188,186,155,83.3
+San Miguel de Abona,san-miguel-de-abona,Santa Cruz de Tenerife,259,74,28.6,44,17.0,17,9.3,182,179,155,86.6
+Ontinyent,ontinyent,Valencia,256,56,21.9,30,11.7,13,6.5,199,206,160,77.7
+San Fernando de Henares,san-fernando-de-henares,Madrid,255,58,22.7,32,12.5,20,10.3,195,198,159,80.3
+Alhaurín el Grande,alhaurin-el-grande,Málaga,255,66,25.9,42,16.5,14,7.4,189,185,156,84.3
+Santa Lucía de Tirajana,santa-lucia-de-tirajana,Las Palmas,254,71,28.0,39,15.4,16,8.8,182,189,154,81.5
+Écija,ecija,Sevilla,251,70,27.9,46,18.3,17,9.4,181,182,145,79.7
+Utrera,utrera,Sevilla,251,57,22.7,42,16.7,29,15.0,193,188,158,84.0
+Capdepera,capdepera,Illes Balears,250,59,23.6,33,13.2,17,9.1,186,192,167,87.0
+Almonte,almonte,Huelva,247,60,24.3,36,14.6,22,11.8,186,164,131,79.9
+Totana,totana,Murcia,244,54,22.1,37,15.2,20,10.6,189,182,155,85.2
+La Rinconada,la-rinconada,Sevilla,243,66,27.2,45,18.5,18,10.2,176,179,150,83.8
+Barbate,barbate,Cádiz,242,68,28.1,55,22.7,20,11.6,172,156,135,86.5
+Petrel,petrel,Alicante,242,55,22.7,39,16.1,14,7.5,187,180,133,73.9
+Guardamar del Segura,guardamar-del-segura,Alicante,241,64,26.6,37,15.4,15,8.5,176,163,143,87.7
+Amposta,amposta,Tarragona,241,54,22.4,34,14.1,15,8.0,187,187,149,79.7
+Sóller,soller,Illes Balears,240,48,20.0,21,8.8,19,9.9,192,193,173,89.6
+Tomares,tomares,Sevilla,239,67,28.0,50,20.9,16,9.4,171,164,131,79.9
+Benissa,benissa,Alicante,236,35,14.8,23,9.7,17,8.5,200,188,162,86.2
+"Castell d'Aro, Platja d'Aro i s'Agaró",castell-d-aro-platja-d-aro-i-s-agaro,Girona,236,61,25.8,33,14.0,18,10.3,175,176,131,74.4
+Calafell,calafell,Tarragona,234,53,22.6,37,15.8,24,13.5,178,165,138,83.6
+Níjar,nijar,Almería,234,55,23.5,28,12.0,15,8.4,179,176,146,83.0
+Castro-Urdiales,castro-urdiales,Cantabria,234,94,40.2,44,18.8,20,14.3,140,162,137,84.6
+Calella,calella,Barcelona,233,70,30.0,45,19.3,14,8.6,163,161,117,72.7
+Barberà del Vallès,barbera-del-valles,Barcelona,233,44,18.9,21,9.0,14,7.5,187,189,140,74.1
+Valls,valls,Tarragona,233,62,26.6,39,16.7,13,7.6,171,174,136,78.2
+Manilva,manilva,Málaga,232,63,27.2,38,16.4,8,4.8,166,171,146,85.4
+Manises,manises,Valencia,230,63,27.4,46,20.0,23,13.9,166,157,136,86.6
+Aldaia,aldaia,Valencia,230,50,21.7,33,14.3,19,10.6,179,172,136,79.1
+Vera,vera,Almería,230,55,23.9,35,15.2,12,6.9,175,165,134,81.2
+Águilas,aguilas,Murcia,230,54,23.5,34,14.8,8,4.5,176,172,149,86.6
+Melilla,melilla,Melilla,230,70,30.4,43,18.7,18,11.4,158,153,124,81.0
+Benicarló,benicarlo,Castellón,229,48,21.0,33,14.4,17,9.4,180,170,143,84.1
+Rojales,rojales,Alicante,228,48,21.1,26,11.4,16,8.9,180,169,134,79.3
+Riba-roja de Túria,riba-roja-de-turia,Valencia,227,46,20.3,34,15.0,11,6.1,181,176,139,79.0
+Alboraya,alboraya,Valencia,225,61,27.1,35,15.6,20,12.3,163,158,125,79.1
+Zarautz,zarautz,Gipuzkoa,225,62,27.6,39,17.3,13,8.0,162,168,140,83.3
+Humanes de Madrid,humanes-de-madrid,Madrid,224,55,24.6,36,16.1,19,11.2,169,170,143,84.1
+San Juan de Alicante,san-juan-de-alicante,Alicante,224,52,23.2,35,15.6,9,5.2,172,173,139,80.3
+Marratxí,marratxi,Illes Balears,224,47,21.0,27,12.1,13,7.3,177,177,144,81.4
+Palamós i Sant Joan,palamos-i-sant-joan,Girona,224,68,30.4,45,20.1,19,12.2,156,150,128,85.3
+Sant Feliu de Llobregat,sant-feliu-de-llobregat,Barcelona,223,73,32.7,46,20.6,24,16.1,149,156,110,70.5
+Valdepeñas,valdepenas,Ciudad Real,223,53,23.8,26,11.7,24,14.2,169,181,155,85.6
+Ames,ames,A Coruña,221,36,16.3,24,10.9,12,6.5,184,177,136,76.8
+Culleredo,culleredo,A Coruña,221,47,21.3,25,11.3,22,12.7,173,181,144,79.6
+Andújar,andujar,Jaén,221,49,22.2,35,15.8,11,6.5,170,167,127,76.0
+Villaviciosa de Odón,villaviciosa-de-odon,Madrid,219,51,23.3,28,12.8,12,7.2,167,165,148,89.7
+Oliva,oliva,Valencia,218,52,23.9,37,17.0,13,7.9,165,167,134,80.2
+Jaca,jaca,Huesca,217,58,26.7,35,16.1,13,8.2,158,166,136,81.9
+Albolote,albolote,Granada,216,47,21.8,27,12.5,14,8.3,169,163,128,78.5
+Los Alcázares,los-alcazares,Murcia,216,47,21.8,25,11.6,16,9.5,169,153,128,83.7
+Armilla,armilla,Granada,215,38,17.7,26,12.1,20,11.3,177,163,125,76.7
+Coín,coin,Málaga,215,52,24.2,35,16.3,16,9.8,163,166,137,82.5
+O Porriño,o-porrino,Pontevedra,215,40,18.6,26,12.1,17,9.8,174,181,145,80.1
+Isla Cristina,isla-cristina,Huelva,214,58,27.1,43,20.1,15,9.7,155,146,123,84.2
+Burjassot,burjassot,Valencia,214,67,31.3,44,20.6,12,8.2,147,142,113,79.6
+Vejer de la Frontera,vejer-de-la-frontera,Cádiz,213,60,28.2,42,19.7,14,9.2,153,157,134,85.4
+Rota,rota,Cádiz,213,54,25.4,28,13.1,16,10.1,158,149,129,86.6
+Arroyomolinos,arroyomolinos,Madrid,210,49,23.3,25,11.9,19,11.8,161,166,138,83.1
+Torroella de Montgrí,torroella-de-montgri,Girona,210,57,27.1,31,14.8,26,17.0,153,156,106,67.9
+Alacuás,alacuas,Valencia,209,51,24.4,31,14.8,11,7.1,156,148,119,80.4
+Ibi,ibi,Alicante,209,40,19.1,24,11.5,12,7.1,168,165,110,66.7
+Vall de Uxó,vall-de-uxo,Castellón,209,52,24.9,31,14.8,16,10.2,157,152,132,86.8
+Quart de Poblet,quart-de-poblet,Valencia,206,52,25.2,31,15.0,12,7.8,153,159,136,85.5
+Sant Feliu de Guíxols,sant-feliu-de-guixols,Girona,206,56,27.2,37,18.0,10,6.7,150,150,106,70.7
+Crevillente,crevillente,Alicante,205,59,28.8,30,14.6,13,8.9,146,146,122,83.6
+Carballo,carballo,A Coruña,204,38,18.6,26,12.7,19,11.4,166,158,133,84.2
+l'Eliana,l-eliana,Valencia,202,48,23.8,33,16.3,12,7.8,153,138,113,81.9
+Almazora,almazora,Castellón,202,41,20.3,29,14.4,16,10.0,160,155,125,80.6
+Mislata,mislata,Valencia,201,50,24.9,30,14.9,12,8.0,150,152,129,84.9
+Mojácar,mojacar,Almería,200,63,31.5,37,18.5,16,11.7,137,132,105,79.5
+Agüimes,aguimes,Las Palmas,200,57,28.5,34,17.0,14,9.9,142,146,118,80.8
+Pájara,pajara,Las Palmas,200,52,26.0,24,12.0,7,4.7,148,152,125,82.2
+Sarria,sarria,Lugo,200,38,19.0,23,11.5,7,4.3,162,149,125,83.9
+Onda,onda,Castellón,200,51,25.5,30,15.0,9,6.1,147,151,116,76.8
+Caravaca de la Cruz,caravaca-de-la-cruz,Murcia,199,48,24.1,38,19.1,11,7.3,150,146,111,76.0
+Aranguren,aranguren,Navarra,199,26,13.1,11,5.5,12,7.0,172,175,135,77.1
+Calahorra,calahorra,La Rioja,199,45,22.6,31,15.6,20,13.2,152,150,109,72.7
+Burriana,burriana,Castellón,199,62,31.2,40,20.1,11,8.1,136,145,101,69.7
+Pineda de Mar,pineda-de-mar,Barcelona,198,71,35.9,37,18.7,11,8.7,126,133,102,76.7
+Montilla,montilla,Córdoba,198,37,18.7,25,12.6,8,5.0,160,156,128,82.1
+Galapagar,galapagar,Madrid,197,49,24.9,30,15.2,13,8.8,147,141,117,83.0
+Baza,baza,Granada,197,54,27.4,32,16.2,2,1.4,139,136,101,74.3
+Torrelodones,torrelodones,Madrid,196,53,27.0,35,17.9,8,5.7,141,141,118,83.7
+el Masnou,el-masnou,Barcelona,195,61,31.3,28,14.4,17,12.9,132,138,108,78.3
+Puertollano,puertollano,Ciudad Real,195,57,29.2,41,21.0,12,8.7,138,146,114,78.1
+Molins de Rei,molins-de-rei,Barcelona,193,51,26.4,31,16.1,15,10.6,142,145,106,73.1
+Cangas de Onís,cangas-de-onis,Asturias,193,49,25.4,35,18.1,15,10.5,143,130,114,87.7
+Miranda de Ebro,miranda-de-ebro,Burgos,193,59,30.6,27,14.0,19,14.3,133,137,95,69.3
+Banyoles,banyoles,Girona,193,48,24.9,19,9.8,24,16.7,144,155,103,66.5
+Oleiros,oleiros,A Coruña,192,44,22.9,21,10.9,13,8.9,146,151,118,78.1
+Cullera,cullera,Valencia,191,49,25.7,30,15.7,22,15.6,141,145,105,72.4
+Sueca,sueca,Valencia,191,63,33.0,31,16.2,18,14.2,127,138,113,81.9
+Andratx,andratx,Illes Balears,189,37,19.6,23,12.2,19,12.5,152,141,121,85.8
+La Nucía,la-nucia,Alicante,187,41,21.9,22,11.8,9,6.2,146,148,113,76.4
+Ripollet,ripollet,Barcelona,185,57,30.8,35,18.9,13,10.2,128,142,108,76.1
+Felanitx,felanitx,Illes Balears,185,41,22.2,23,12.4,7,5.0,141,141,108,76.6
+Barbastro,barbastro,Huesca,185,44,23.8,23,12.4,18,12.9,140,148,117,79.1
+Martorell,martorell,Barcelona,184,58,31.5,38,20.7,12,9.5,126,124,94,75.8
+Nigrán,nigran,Pontevedra,184,42,22.8,31,16.8,10,7.0,142,139,104,74.8
+Almoradí,almoradi,Alicante,183,38,20.8,20,10.9,6,4.1,145,148,111,75.0
+Cangas de Morrazo,cangas-de-morrazo,Pontevedra,183,41,22.4,28,15.3,8,5.6,142,142,112,78.9
+Redondela,redondela,Pontevedra,183,47,25.7,28,15.3,8,6.0,134,127,103,81.1
+Puerto Real,puerto-real,Cádiz,182,52,28.6,34,18.7,8,6.2,130,126,100,79.4
+Ribeira,ribeira,A Coruña,182,36,19.8,24,13.2,12,8.2,146,142,103,72.5
+Sant Adrià de Besòs,sant-adria-de-besos,Barcelona,181,49,27.1,31,17.1,20,15.3,131,128,100,78.1
+Villaviciosa,villaviciosa,Asturias,181,39,21.5,29,16.0,18,12.8,141,126,105,83.3
+Langreo,langreo,Asturias,180,41,22.8,25,13.9,14,10.1,139,130,95,73.1
+Peñíscola,peniscola,Castellón,180,39,21.7,27,15.0,13,9.2,141,132,95,72.0
+l'Escala,l-escala,Girona,178,44,24.7,26,14.6,16,12.0,133,132,103,78.0
+Sant Pere de Ribes,sant-pere-de-ribes,Barcelona,177,62,35.0,39,22.0,12,10.5,114,121,104,86.0
+Atarfe,atarfe,Granada,175,40,22.9,29,16.6,7,5.2,135,129,106,82.2
+Llanera,llanera,Asturias,175,43,24.6,23,13.1,12,9.1,132,135,109,80.7
+Villarrobledo,villarrobledo,Albacete,175,34,19.4,27,15.4,17,12.1,141,141,108,76.6
+Pozoblanco,pozoblanco,Córdoba,174,34,19.5,24,13.8,10,7.2,139,139,120,86.3
+Jumilla,jumilla,Murcia,172,36,20.9,22,12.8,13,9.6,136,143,107,74.8
+Mieres,mieres,Asturias,172,47,27.3,27,15.7,17,13.7,124,125,102,81.6
+Zafra,zafra,Badajoz,172,46,26.7,22,12.8,16,12.8,125,130,105,80.8
+Benicasim,benicasim,Castellón,172,46,26.7,27,15.7,12,9.6,125,123,98,79.7
+Peligros,peligros,Granada,172,42,24.4,23,13.4,7,5.4,130,139,100,71.9
+Villanueva de la Cañada,villanueva-de-la-canada,Madrid,171,44,25.7,31,18.1,8,6.3,127,125,107,85.6
+Los Palacios y Villafranca,los-palacios-y-villafranca,Sevilla,171,37,21.6,28,16.4,13,9.7,134,124,107,86.3
+Bétera,betera,Valencia,170,48,28.2,32,18.8,2,1.6,122,124,108,87.1
+Punta Umbría,punta-umbria,Huelva,169,39,23.1,23,13.6,7,5.4,129,119,100,84.0
+Villares de la Reina,villares-de-la-reina,Salamanca,169,38,22.5,24,14.2,16,12.2,131,130,100,76.9
+Almansa,almansa,Albacete,169,34,20.1,26,15.4,15,11.2,134,120,94,78.3
+la Garriga,la-garriga,Barcelona,168,51,30.4,29,17.3,14,12.0,117,125,88,70.4
+Monachil,monachil,Granada,168,36,21.4,25,14.9,9,6.8,132,124,102,82.3
+Los Barrios,los-barrios,Cádiz,167,43,25.7,29,17.4,15,12.2,123,124,99,79.8
+Bormujos,bormujos,Sevilla,167,42,25.1,32,19.2,11,8.9,124,122,101,82.8
+Chipiona,chipiona,Cádiz,167,53,31.7,31,18.6,15,13.4,112,118,91,77.1
+O Grove,o-grove,Pontevedra,166,35,21.1,29,17.5,17,13.3,128,121,96,79.3
+Puente Genil,puente-genil,Córdoba,165,37,22.4,23,13.9,9,7.1,127,132,112,84.8
+Cambre,cambre,A Coruña,165,44,26.7,25,15.2,7,5.8,121,123,98,79.7
+Erandio,erandio,Bizkaia,165,39,23.6,16,9.7,3,2.4,125,135,105,77.8
+Alcañiz,alcaniz,Teruel,165,34,20.6,12,7.3,14,10.7,131,134,108,80.6
+Los Llanos de Aridane,los-llanos-de-aridane,Santa Cruz de Tenerife,165,34,20.6,24,14.5,17,13.1,130,128,111,86.7
+Torrox,torrox,Málaga,164,38,23.2,27,16.5,9,7.2,125,124,105,84.7
+Alhama de Murcia,alhama-de-murcia,Murcia,164,40,24.4,22,13.4,12,9.7,124,126,92,73.0
+Tolosa,tolosa,Gipuzkoa,164,58,35.4,32,19.5,14,13.2,106,124,93,75.0
+Durango,durango,Bizkaia,164,40,24.4,23,14.0,8,6.5,123,115,90,78.3
+Navalcarnero,navalcarnero,Madrid,163,42,25.8,25,15.3,11,9.2,120,116,97,83.6
+Priego de Córdoba,priego-de-cordoba,Córdoba,163,44,27.0,30,18.4,15,12.6,119,121,90,74.4
+Vilassar de Mar,vilassar-de-mar,Barcelona,163,53,32.5,30,18.4,17,15.6,109,116,88,75.9
+Los Realejos,los-realejos,Santa Cruz de Tenerife,163,40,24.5,27,16.6,9,7.4,122,125,107,85.6
+Cardedeu,cardedeu,Barcelona,162,54,33.3,35,21.6,13,12.1,107,113,84,74.3
+Premià de Mar,premia-de-mar,Barcelona,161,53,32.9,35,21.7,12,11.1,108,114,96,84.2
+Castellar del Vallès,castellar-del-valles,Barcelona,161,44,27.3,24,14.9,20,17.1,117,126,102,81.0
+Tàrrega,tarrega,Lleida,161,23,14.3,15,9.3,15,11.0,136,129,94,72.9
+Sant Joan Despí,sant-joan-despi,Barcelona,160,41,25.6,20,12.5,14,11.8,119,110,84,76.4
+Ribadeo,ribadeo,Lugo,160,38,23.8,25,15.6,17,13.9,122,116,92,79.3
+Vila-seca,vila-seca,Tarragona,160,39,24.4,21,13.1,12,9.9,121,120,96,80.0
+Basauri,basauri,Bizkaia,158,47,29.7,25,15.8,11,10.2,108,115,94,81.7
+Santa Perpètua de Mogoda,santa-perpetua-de-mogoda,Barcelona,157,35,22.3,23,14.6,14,11.7,120,116,92,79.3
+Arenys de Mar,arenys-de-mar,Barcelona,157,35,22.3,22,14.0,14,11.7,120,117,92,78.6
+Boiro,boiro,A Coruña,157,28,17.8,19,12.1,18,14.0,129,134,102,76.1
+Éibar,eibar,Gipuzkoa,157,42,26.8,28,17.8,12,10.6,113,116,91,78.4
+Portugalete,portugalete,Bizkaia,156,55,35.3,38,24.4,8,8.0,100,95,76,80.0
+Arteixo,arteixo,A Coruña,156,41,26.3,20,12.8,13,11.3,115,107,79,73.8
+Torredembarra,torredembarra,Tarragona,155,44,28.4,29,18.7,12,10.8,111,112,89,79.5
+Moguer,moguer,Huelva,154,34,22.1,24,15.6,12,10.2,118,107,96,89.7
+Cartaya,cartaya,Huelva,153,34,22.2,20,13.1,11,9.2,119,113,101,89.4
+Novelda,novelda,Alicante,153,23,15.0,15,9.8,15,11.5,130,120,98,81.7
+Lalín,lalin,Pontevedra,153,29,19.0,20,13.1,10,8.1,123,123,93,75.6
+San Lorenzo de El Escorial,san-lorenzo-de-el-escorial,Madrid,152,35,23.0,21,13.8,11,9.5,116,110,92,83.6
+Sant Andreu de la Barca,sant-andreu-de-la-barca,Barcelona,152,34,22.4,17,11.2,18,15.4,117,112,85,75.9
+Arcos de la Frontera,arcos-de-la-frontera,Cádiz,152,41,27.0,31,20.4,7,6.3,111,105,87,82.9
+Xirivella,xirivella,Valencia,151,41,27.2,25,16.6,5,4.6,108,109,83,76.1
+Sant Just Desvern,sant-just-desvern,Barcelona,151,40,26.5,19,12.6,4,3.6,111,110,86,78.2
+Laredo,laredo,Cantabria,151,57,37.7,38,25.2,7,7.6,92,99,71,71.7
+Valverde del Camino,valverde-del-camino,Huelva,150,29,19.3,17,11.3,12,9.9,121,119,97,81.5
+Paracuellos de Jarama,paracuellos-de-jarama,Madrid,150,34,22.7,21,14.0,14,12.1,116,117,93,79.5
+Paiporta,paiporta,Valencia,150,36,24.0,21,14.0,8,7.0,114,116,99,85.3
+Montcada i Reixac,montcada-i-reixac,Barcelona,150,36,24.0,20,13.3,11,9.6,114,110,82,74.5
+Muchamiel,muchamiel,Alicante,150,26,17.3,17,11.3,16,12.9,124,117,95,81.2
+Viella Mitg Arán,viella-mitg-aran,Lleida,150,42,28.0,22,14.7,12,11.3,106,116,95,81.9
+Sant Celoni,sant-celoni,Barcelona,149,40,26.8,23,15.4,17,15.9,107,113,90,79.6
+Azuqueca de Henares,azuqueca-de-henares,Guadalajara,149,51,34.2,28,18.8,10,10.4,96,102,82,80.4
+Malgrat de Mar,malgrat-de-mar,Barcelona,148,62,41.9,37,25.0,18,20.9,86,97,50,51.5
+Carmona,carmona,Sevilla,148,51,34.5,32,21.6,8,8.3,96,105,79,75.2
+Alfafar,alfafar,Valencia,148,34,23.0,21,14.2,7,6.1,114,117,96,82.1
+Errenteria,errenteria,Gipuzkoa,148,36,24.3,20,13.5,7,6.4,109,102,86,84.3
+Cieza,cieza,Murcia,148,40,27.0,26,17.6,11,10.2,108,98,68,69.4
+Guadarrama,guadarrama,Madrid,147,37,25.2,21,14.3,14,12.7,110,112,94,83.9
+A Estrada,a-estrada,Pontevedra,147,23,15.6,14,9.5,14,11.3,124,123,99,80.5
+Benavente,benavente,Zamora,147,45,30.6,32,21.8,14,13.7,102,103,75,72.8
+Villanueva de la Serena,villanueva-de-la-serena,Badajoz,147,31,21.1,23,15.6,10,8.6,116,105,81,77.1
+Camas,camas,Sevilla,146,43,29.5,30,20.5,8,7.8,103,99,83,83.8
+Silla,silla,Valencia,145,31,21.4,19,13.1,14,12.7,110,115,91,79.1
+la Pobla de Vallbona,la-pobla-de-vallbona,Valencia,145,41,28.3,18,12.4,5,4.9,103,112,90,80.4
+Calatayud,calatayud,Zaragoza,145,33,22.8,24,16.6,14,12.6,111,112,92,82.1
+Sant Quirze del Vallès,sant-quirze-del-valles,Barcelona,144,29,20.1,17,11.8,10,8.8,114,113,86,76.1
+Requena,requena,Valencia,144,33,22.9,18,12.5,13,12.0,108,108,77,71.3
+Aspe,aspe,Alicante,144,29,20.1,24,16.7,15,13.0,115,108,88,81.5
+Mollerussa,mollerussa,Lleida,144,36,25.0,24,16.7,15,13.9,108,107,84,78.5
+Hernani,hernani,Gipuzkoa,144,39,27.1,23,16.0,9,8.6,105,102,81,79.4
+Benahavís,benahavis,Málaga,143,39,27.3,21,14.7,8,7.8,103,103,88,85.4
+Loja,loja,Granada,143,33,23.1,19,13.3,14,12.8,109,113,93,82.3
+Coria del Río,coria-del-rio,Sevilla,143,50,35.0,34,23.8,3,3.2,93,89,72,80.9
+Guía de Isora,guia-de-isora,Santa Cruz de Tenerife,143,41,28.7,36,25.2,4,4.0,101,94,75,79.8
+Cambados,cambados,Pontevedra,143,24,16.8,17,11.9,8,6.8,117,113,78,69.0
+les Franqueses del Vallès,les-franqueses-del-valles,Barcelona,142,46,32.4,24,16.9,17,17.7,96,108,76,70.4
+Finestrat,finestrat,Alicante,141,30,21.3,20,14.2,8,7.2,111,108,94,87.0
+Cártama,cartama,Málaga,141,41,29.1,26,18.4,11,11.0,100,96,80,83.3
+Caldes de Montbui,caldes-de-montbui,Barcelona,140,37,26.4,16,11.4,11,10.8,102,112,83,74.1
+Algemesí,algemesi,Valencia,140,31,22.1,18,12.9,17,15.6,109,113,85,75.2
+Campos,campos,Illes Balears,140,28,20.0,19,13.6,11,10.0,110,107,94,87.9
+Bollullos par del Condado,bollullos-par-del-condado,Huelva,139,36,25.9,16,11.5,14,13.6,103,97,77,79.4
+Esparreguera,esparreguera,Barcelona,139,33,23.7,21,15.1,12,11.3,106,106,86,81.1
+Candelaria,candelaria,Santa Cruz de Tenerife,139,47,33.8,31,22.3,10,11.0,91,97,86,88.7
+Ponteareas,ponteareas,Pontevedra,138,30,21.7,21,15.2,7,6.5,108,100,76,76.0
+Santiago del Teide,santiago-del-teide,Santa Cruz de Tenerife,138,36,26.1,21,15.2,10,9.9,101,102,85,83.3
+Monforte de Lemos,monforte-de-lemos,Lugo,138,25,18.1,15,10.9,15,13.3,113,112,89,79.5
+Medina del Campo,medina-del-campo,Valladolid,138,33,23.9,20,14.5,8,7.6,105,106,83,78.3
+Berga,berga,Barcelona,137,35,25.5,27,19.7,7,6.9,102,97,79,81.4
+Fuenterrabía,fuenterrabia,Gipuzkoa,137,30,21.9,18,13.1,14,13.1,107,102,86,84.3
+Santurtzi,santurtzi,Bizkaia,136,54,39.7,34,25.0,9,11.1,81,88,72,81.8
+Puigcerdà,puigcerda,Girona,135,37,27.4,21,15.6,17,17.5,97,102,85,83.3
+Mos,mos,Pontevedra,135,23,17.0,11,8.1,8,7.1,112,115,96,83.5
+Algete,algete,Madrid,134,31,23.1,19,14.2,11,10.8,102,97,79,81.4
+Llíria,lliria,Valencia,133,35,26.3,20,15.0,14,14.6,96,92,69,75.0
+Hellín,hellin,Albacete,133,38,28.6,31,23.3,9,9.6,94,95,58,61.1
+Son Servera,son-servera,Illes Balears,133,33,24.8,21,15.8,9,9.1,99,96,83,86.5
+Alcalá la Real,alcala-la-real,Jaén,132,30,22.7,20,15.2,10,10.0,100,102,84,82.4
+Lebrija,lebrija,Sevilla,132,23,17.4,16,12.1,6,5.5,109,108,95,88.0
+Estella,estella,Navarra,132,24,18.2,16,12.1,15,13.9,108,101,90,89.1
+Cuarte de Huerva,cuarte-de-huerva,Zaragoza,132,32,24.2,16,12.1,14,14.0,100,107,89,83.2
+Leioa,leioa,Bizkaia,132,33,25.0,16,12.1,11,11.2,98,106,81,76.4
+Tui,tui,Pontevedra,131,33,25.2,20,15.3,9,9.2,98,100,84,84.0
+Santa Margalida,santa-margalida,Illes Balears,131,32,24.4,20,15.3,10,10.2,98,100,85,85.0
+Alcalà de Xivert,alcala-de-xivert,Castellón,131,29,22.1,20,15.3,11,10.9,101,96,83,86.5
+Salt,salt,Girona,131,39,29.8,26,19.8,11,12.0,92,94,76,80.9
+Sada,sada,A Coruña,131,34,26.0,21,16.0,12,12.4,97,96,82,85.4
+El Astillero,el-astillero,Cantabria,130,30,23.1,19,14.6,11,11.0,100,97,85,87.6
+Galdakao,galdakao,Bizkaia,129,34,26.4,15,11.6,8,8.5,94,99,75,75.8
+Tossa de Mar,tossa-de-mar,Girona,129,35,27.1,23,17.8,15,16.0,94,91,80,87.9
+Fraga,fraga,Huesca,129,27,20.9,20,15.5,14,14.0,100,101,80,79.2
+Antigua,antigua,Las Palmas,128,31,24.2,20,15.6,6,6.3,95,84,70,83.3
+Calonge i Sant Antoni,calonge-i-sant-antoni,Girona,128,33,25.8,20,15.6,12,12.8,94,103,74,71.8
+Seseña,sesena,Toledo,128,42,32.8,28,21.9,3,3.5,86,88,74,84.1
+Moncada,moncada,Valencia,127,31,24.4,26,20.5,8,8.3,96,86,72,83.7
+O Carballiño,o-carballino,Ourense,127,48,37.8,28,22.0,14,17.9,78,88,57,64.8
+Huércal-Overa,huercal-overa,Almería,126,39,31.0,25,19.8,4,4.7,86,85,66,77.6
+Mejorada del Campo,mejorada-del-campo,Madrid,126,39,31.0,29,23.0,10,11.5,87,77,69,89.6
+Sant Joan de Labritja,sant-joan-de-labritja,Illes Balears,126,35,27.8,22,17.5,5,5.5,91,92,86,93.5
+Begur,begur,Girona,126,27,21.4,12,9.5,9,9.1,99,100,82,82.0
+San Andrés del Rabanedo,san-andres-del-rabanedo,León,125,24,19.2,15,12.0,10,9.9,101,102,91,89.2
+Salobreña,salobrena,Granada,124,35,28.2,22,17.7,3,3.4,89,86,76,88.4
+Picassent,picassent,Valencia,124,28,22.6,13,10.5,6,6.3,95,98,81,82.7
+Tacoronte,tacoronte,Santa Cruz de Tenerife,124,34,27.4,28,22.6,9,10.0,90,85,70,82.4
+Monzón,monzon,Huesca,123,23,18.7,11,8.9,14,14.3,98,100,86,86.0
+Guadix,guadix,Granada,122,34,27.9,22,18.0,8,9.1,88,83,70,84.3
+Sant Llorenç des Cardassar,sant-llorenc-des-cardassar,Illes Balears,122,32,26.2,18,14.8,9,10.0,90,86,68,79.1
+la Ràpita,la-rapita,Tarragona,122,32,26.2,19,15.6,10,11.4,88,90,71,78.9
+Pedreguer,pedreguer,Alicante,122,20,16.4,13,10.7,10,9.8,102,97,75,77.3
+Padrón,padron,A Coruña,121,20,16.5,16,13.2,10,9.9,101,94,68,72.3
+Balaguer,balaguer,Lleida,121,36,29.8,20,16.5,9,10.6,85,91,65,71.4
+Trujillo,trujillo,Cáceres,121,21,17.4,13,10.7,13,13.1,99,91,80,87.9
+Bollullos de la Mitación,bollullos-de-la-mitacion,Sevilla,121,34,28.1,19,15.7,9,10.3,87,94,75,79.8
+Huércal de Almería,huercal-de-almeria,Almería,120,31,25.8,20,16.7,6,6.8,88,88,71,80.7
+Morón de la Frontera,moron-de-la-frontera,Sevilla,120,29,24.2,14,11.7,15,16.5,91,95,79,83.2
+Navalmoral de la Mata,navalmoral-de-la-mata,Cáceres,119,50,42.0,20,16.8,10,14.7,68,88,74,84.1
+Haro,haro,La Rioja,119,27,22.7,18,15.1,7,7.6,92,90,68,75.6
+Icod de los Vinos,icod-de-los-vinos,Santa Cruz de Tenerife,119,36,30.3,20,16.8,7,8.4,83,85,77,90.6
+Martos,martos,Jaén,119,32,26.9,20,16.8,10,11.8,85,90,78,86.7
+Cabra,cabra,Córdoba,118,33,28.0,17,14.4,13,15.3,85,85,73,85.9
+Sant Sadurní d'Anoia,sant-sadurni-d-anoia,Barcelona,118,28,23.7,11,9.3,11,12.6,87,92,63,68.5
+Parets del Vallès,parets-del-valles,Barcelona,118,33,28.0,17,14.4,10,12.3,81,91,68,74.7
+Santomera,santomera,Murcia,118,19,16.1,12,10.2,4,4.1,98,95,75,78.9
+Manzanares,manzanares,Ciudad Real,118,28,23.7,22,18.6,7,7.9,89,86,76,88.4
+San Bartolomé,san-bartolome,Las Palmas,117,30,25.6,18,15.4,9,10.3,87,86,79,91.9
+Noia,noia,A Coruña,117,22,18.8,17,14.5,8,8.4,95,88,69,78.4
+Baeza,baeza,Jaén,117,38,32.5,24,20.5,8,10.3,78,81,58,71.6
+Ciempozuelos,ciempozuelos,Madrid,116,42,36.2,33,28.4,9,12.2,74,68,57,83.8
+Mungia,mungia,Bizkaia,116,32,27.6,23,19.8,7,8.8,80,83,73,88.0
+Las Torres de Cotillas,las-torres-de-cotillas,Murcia,115,45,39.1,24,20.9,5,7.1,70,74,55,74.3
+Valdés,valdes,Asturias,115,18,15.7,9,7.8,12,12.5,96,93,75,80.6
+Albal,albal,Valencia,114,27,23.7,19,16.7,7,8.0,87,87,64,73.6
+Canet de Mar,canet-de-mar,Barcelona,114,30,26.3,21,18.4,14,16.7,84,83,63,75.9
+es Mercadal,es-mercadal,Illes Balears,114,28,24.6,12,10.5,9,10.6,85,84,71,84.5
+Santa Cruz de Bezana,santa-cruz-de-bezana,Cantabria,114,23,20.2,15,13.2,7,7.8,90,87,73,83.9
+Arucas,arucas,Las Palmas,113,28,24.8,15,13.3,7,8.3,84,91,70,76.9
+Torrijos,torrijos,Toledo,113,30,26.5,21,18.6,9,10.8,83,81,65,80.2
+Tarancón,tarancon,Cuenca,113,24,21.2,20,17.7,4,4.5,89,75,66,88.0
+Aracena,aracena,Huelva,112,31,27.7,21,18.8,14,17.5,80,81,64,79.0
+Ondara,ondara,Alicante,112,19,17.0,12,10.7,4,4.3,93,87,76,87.4
+Mont-roig del Camp,mont-roig-del-camp,Tarragona,112,33,29.5,24,21.4,8,10.1,79,79,62,78.5
+Oropesa del Mar,oropesa-del-mar,Castellón,112,26,23.2,12,10.7,13,15.1,86,82,70,85.4
+Viveiro,viveiro,Lugo,112,21,18.8,17,15.2,5,5.5,91,86,55,64.0
+Poio,poio,Pontevedra,112,29,25.9,22,19.6,9,10.8,83,77,54,70.1
+Sant Vicenç dels Horts,sant-vicenc-dels-horts,Barcelona,110,30,27.3,21,19.1,9,11.2,80,80,67,83.8
+Mairena del Alcor,mairena-del-alcor,Sevilla,110,27,24.5,16,14.5,8,9.6,83,86,66,76.7
+la Seu d'Urgell,la-seu-d-urgell,Lleida,110,29,26.4,16,14.5,8,10.0,80,84,67,79.8
+Puzol,puzol,Valencia,109,23,21.1,16,14.7,7,8.2,85,80,59,73.8
+Palma del Río,palma-del-rio,Córdoba,109,29,26.6,17,15.6,10,12.5,80,84,69,82.1
+San Fulgencio,san-fulgencio,Alicante,109,27,24.8,14,12.8,4,4.9,82,83,58,69.9
+Laguna de Duero,laguna-de-duero,Valladolid,109,24,22.0,17,15.6,8,9.4,85,85,72,84.7
+Deltebre,deltebre,Tarragona,109,29,26.6,17,15.6,7,9.1,77,79,68,86.1
+Cangas del Narcea,cangas-del-narcea,Asturias,109,29,26.6,19,17.4,11,13.8,80,73,64,87.7
+Griñón,grinon,Madrid,109,28,25.7,18,16.5,4,4.9,81,81,69,85.2
+Alpedrete,alpedrete,Madrid,108,30,27.8,20,18.5,11,14.3,77,77,66,85.7
+Argentona,argentona,Barcelona,108,28,25.9,16,14.8,6,7.5,80,85,67,78.8
+Artà,arta,Illes Balears,108,19,17.6,11,10.2,8,9.0,89,85,72,84.7
+Baztán,baztan,Navarra,108,12,11.1,7,6.5,1,1.1,95,89,74,83.1
+Santoña,santona,Cantabria,108,24,22.2,14,13.0,6,7.2,83,79,65,82.3
+Sant Lluís,sant-lluis,Illes Balears,107,24,22.4,16,15.0,5,6.1,82,77,60,77.9
+Caldas de Reis,caldas-de-reis,Pontevedra,107,21,19.6,11,10.3,10,11.6,86,85,59,69.4
+Ciudad Rodrigo,ciudad-rodrigo,Salamanca,107,24,22.4,19,17.8,11,13.3,83,76,67,88.2
+Tavernes de la Valldigna,tavernes-de-la-valldigna,Valencia,106,22,20.8,11,10.4,9,10.8,83,82,67,81.7
+Santa Cruz de La Palma,santa-cruz-de-la-palma,Santa Cruz de Tenerife,106,26,24.5,13,12.3,9,11.4,79,83,72,86.7
+Ribadesella,ribadesella,Asturias,106,27,25.5,21,19.8,7,9.0,78,69,64,92.8
+Utebo,utebo,Zaragoza,106,23,21.7,14,13.2,7,8.4,83,79,60,75.9
+Ingenio,ingenio,Las Palmas,105,27,25.7,19,18.1,8,10.3,78,78,65,83.3
+Teo,teo,A Coruña,105,17,16.2,11,10.5,6,6.9,87,83,62,74.7
+La Roda,la-roda,Albacete,105,20,19.0,16,15.2,8,9.4,85,82,60,73.2
+Astorga,astorga,León,105,26,24.8,17,16.2,13,16.5,79,75,63,84.0
+Baiona,baiona,Pontevedra,105,27,25.7,19,18.1,2,2.6,78,74,58,78.4
+Villanueva del Pardillo,villanueva-del-pardillo,Madrid,104,24,23.1,15,14.4,10,12.7,79,71,63,88.7
+San Martín de la Vega,san-martin-de-la-vega,Madrid,104,29,27.9,24,23.1,7,9.3,75,72,59,81.9
+Cocentaina,cocentaina,Alicante,104,20,19.2,15,14.4,8,9.5,84,79,61,77.2
+Ribamontán al Mar,ribamontan-al-mar,Cantabria,104,24,23.1,15,14.4,5,6.2,80,80,67,83.8
+Mondragón,mondragon,Gipuzkoa,104,42,40.4,13,12.5,6,9.8,61,55,42,76.4
+Arroyo de la Encomienda,arroyo-de-la-encomienda,Valladolid,104,20,19.2,11,10.6,9,10.7,84,79,62,78.5
+Betanzos,betanzos,A Coruña,104,27,26.0,14,13.5,12,15.8,76,77,63,81.8
+Álora,alora,Málaga,104,23,22.1,11,10.6,3,3.7,81,79,68,86.1
+Olesa de Montserrat,olesa-de-montserrat,Barcelona,103,31,30.1,22,21.4,4,5.6,71,72,57,79.2
+Carcaixent,carcaixent,Valencia,103,28,27.2,19,18.4,5,6.7,75,75,61,81.3
+Astigarraga,astigarraga,Gipuzkoa,103,25,24.3,11,10.7,10,13.0,77,86,69,80.2
+Santa Úrsula,santa-ursula,Santa Cruz de Tenerife,103,27,26.2,19,18.4,3,3.9,76,70,56,80.0
+Ejea de los Caballeros,ejea-de-los-caballeros,Zaragoza,103,27,26.2,17,16.5,5,6.7,75,83,64,77.1
+Moralzarzal,moralzarzal,Madrid,102,28,27.5,15,14.7,6,8.1,74,75,64,85.3
+Castilleja de la Cuesta,castilleja-de-la-cuesta,Sevilla,102,41,40.2,29,28.4,5,8.3,60,59,43,72.9
+Bailén,bailen,Jaén,102,19,18.6,13,12.7,11,13.3,83,74,64,86.5
+Espartinas,espartinas,Sevilla,101,33,32.7,20,19.8,5,7.4,68,67,49,73.1
+Adra,adra,Almería,101,22,21.8,12,11.9,5,6.3,79,79,71,89.9
+Cabanillas del Campo,cabanillas-del-campo,Guadalajara,101,28,27.7,19,18.8,8,11.0,73,73,60,82.2
+Guijuelo,guijuelo,Salamanca,101,19,18.8,9,8.9,6,7.3,82,86,67,77.9
+Albox,albox,Almería,100,21,21.0,14,14.0,8,10.1,79,76,52,68.4
+Palau-solità i Plegamans,palau-solita-i-plegamans,Barcelona,100,31,31.0,16,16.0,10,14.5,69,76,54,71.1
+Alaior,alaior,Illes Balears,100,31,31.0,21,21.0,4,5.9,68,73,63,86.3
+Beasáin,beasain,Gipuzkoa,100,26,26.0,15,15.0,12,16.2,74,81,66,81.5
+Churriana de la Vega,churriana-de-la-vega,Granada,100,27,27.0,17,17.0,3,4.2,72,73,59,80.8
+Piélagos,pielagos,Cantabria,100,21,21.0,12,12.0,7,8.9,79,79,64,81.0
+Marín,marin,Pontevedra,100,27,27.0,18,18.0,5,6.8,73,72,54,75.0
+Ordes,ordes,A Coruña,100,29,29.0,19,19.0,3,4.2,71,69,55,79.7
+El Viso del Alcor,el-viso-del-alcor,Sevilla,99,34,34.3,20,20.2,7,10.8,65,68,56,82.4
+Sanlúcar la Mayor,sanlucar-la-mayor,Sevilla,99,32,32.3,19,19.2,10,14.9,67,69,54,78.3
+Suances,suances,Cantabria,99,33,33.3,28,28.3,9,13.8,65,64,58,90.6
+Ripoll,ripoll,Girona,99,24,24.2,15,15.2,13,17.6,74,75,64,85.3
+Azpeitia,azpeitia,Gipuzkoa,99,30,30.3,15,15.2,8,11.6,69,76,57,75.0
+Ubrique,ubrique,Cádiz,98,26,26.5,20,20.4,7,9.9,71,72,57,79.2
+Masanasa,masanasa,Valencia,98,19,19.4,15,15.3,12,15.4,78,77,66,85.7
+A Guarda,a-guarda,Pontevedra,98,19,19.4,15,15.3,5,6.3,79,78,69,88.5
+Guernica y Luno,guernica-y-luno,Bizkaia,98,32,32.7,17,17.3,4,6.2,65,74,43,58.1
+La Palma del Condado,la-palma-del-condado,Huelva,97,17,17.5,10,10.3,12,15.2,79,78,64,82.1
+Cubelles,cubelles,Barcelona,97,29,29.9,17,17.5,8,11.9,67,58,45,77.6
+Castrillón,castrillon,Asturias,97,35,36.1,21,21.6,12,19.4,62,64,53,82.8
+San Cibrao das Viñas,san-cibrao-das-vinas,Ourense,97,14,14.4,7,7.2,6,7.3,82,81,58,71.6
+Oyarzun,oyarzun,Gipuzkoa,96,24,25.0,9,9.4,3,4.2,71,75,62,82.7
+Gondomar,gondomar,Pontevedra,96,17,17.7,11,11.5,3,3.8,79,77,58,75.3
+Güímar,guimar,Santa Cruz de Tenerife,96,26,27.1,16,16.7,4,5.8,69,63,50,79.4
+Castalla,castalla,Alicante,95,21,22.1,16,16.8,4,5.4,74,74,54,73.0
+Arzúa,arzua,A Coruña,95,13,13.7,8,8.4,7,8.5,82,76,68,89.5
+Maracena,maracena,Granada,95,28,29.5,18,18.9,11,16.4,67,67,54,80.6
+Naut Aran,naut-aran,Lleida,95,26,27.4,13,13.7,8,11.8,68,70,60,85.7
+Parres,parres,Asturias,95,17,17.9,11,11.6,7,9.0,78,69,62,89.9
+Daimiel,daimiel,Ciudad Real,95,20,21.1,14,14.7,4,5.3,75,68,47,69.1
+El Rosario,el-rosario,Santa Cruz de Tenerife,95,27,28.4,19,20.0,3,4.4,68,69,60,87.0
+Segorbe,segorbe,Castellón,95,18,18.9,11,11.6,5,6.5,77,73,47,64.4
+Arahal,arahal,Sevilla,95,19,20.0,10,10.5,10,13.2,76,79,71,89.9
+Cabrera de Mar,cabrera-de-mar,Barcelona,94,19,20.2,12,12.8,7,9.3,75,69,58,84.1
+Massamagrell,massamagrell,Valencia,94,29,30.9,24,25.5,5,7.7,65,61,53,86.9
+Carbajosa de la Sagrada,carbajosa-de-la-sagrada,Salamanca,94,17,18.1,6,6.4,8,10.4,77,80,67,83.8
+San Agustín de Guadalix,san-agustin-de-guadalix,Madrid,93,27,29.0,16,17.2,6,9.1,66,62,55,88.7
+Marchena,marchena,Sevilla,93,29,31.2,21,22.6,5,7.8,64,65,53,81.5
+Fuente Álamo de Murcia,fuente-alamo-de-murcia,Murcia,93,24,25.8,12,12.9,7,10.1,69,74,58,78.4
+Cadaqués,cadaques,Girona,93,26,28.0,10,10.8,3,4.5,67,68,53,77.9
+Santillana del Mar,santillana-del-mar,Cantabria,93,27,29.0,17,18.3,8,12.1,66,67,50,74.6
+Manlleu,manlleu,Barcelona,92,27,29.3,15,16.3,14,21.9,64,68,55,80.9
+Cudillero,cudillero,Asturias,92,26,28.3,17,18.5,6,9.1,66,62,55,88.7
+Almagro,almagro,Ciudad Real,92,18,19.6,13,14.1,8,11.0,73,67,63,94.0
+Bergondo,bergondo,A Coruña,92,23,25.0,9,9.8,5,7.2,69,74,53,71.6
+El Escorial,el-escorial,Madrid,91,28,30.8,21,23.1,6,9.8,61,63,57,90.5
+Ses Salines,ses-salines,Illes Balears,91,30,33.0,17,18.7,4,6.6,61,61,51,83.6
+Lorquí,lorqui,Murcia,91,15,16.5,6,6.6,7,9.2,76,82,69,84.1
+Béjar,bejar,Salamanca,91,20,22.0,10,11.0,11,15.5,71,72,57,79.2
+la Bisbal d'Empordà,la-bisbal-d-emporda,Girona,91,30,33.0,18,19.8,8,13.1,61,66,52,78.8
+San Vicente de la Barquera,san-vicente-de-la-barquera,Cantabria,91,23,25.3,14,15.4,6,8.8,68,66,50,75.8
+Montijo,montijo,Badajoz,91,21,23.1,14,15.4,7,10.0,70,65,53,81.5
+Puerto Lumbreras,puerto-lumbreras,Murcia,90,19,21.1,10,11.1,14,19.7,71,73,63,86.3
+Santa Coloma de Farners,santa-coloma-de-farners,Girona,90,19,21.1,12,13.3,8,11.3,71,75,58,77.3
+Toro,toro,Zamora,90,18,20.0,11,12.2,9,12.5,72,68,58,85.3
+Cabezón de la Sal,cabezon-de-la-sal,Cantabria,90,27,30.0,19,21.1,4,6.3,63,67,55,82.1
+Brunete,brunete,Madrid,89,28,31.5,21,23.6,3,4.9,61,62,54,87.1
+Cómpeta,competa,Málaga,89,24,27.0,16,18.0,5,7.7,65,58,46,79.3
+Cehegín,cehegin,Murcia,89,24,27.0,16,18.0,3,4.7,64,64,48,75.0
+Archena,archena,Murcia,89,20,22.5,14,15.7,3,4.3,69,67,54,80.6
+Zamudio,zamudio,Bizkaia,89,13,14.6,6,6.7,4,5.4,74,78,53,67.9
+Derio,derio,Bizkaia,89,24,27.0,13,14.6,5,7.7,65,71,48,67.6
+Chiva,chiva,Valencia,88,20,22.7,12,13.6,4,5.9,68,67,51,76.1
+Sant Fruitós de Bages,sant-fruitos-de-bages,Barcelona,88,17,19.3,8,9.1,4,5.7,70,69,48,69.6
+Campo de Criptana,campo-de-criptana,Ciudad Real,88,17,19.3,12,13.6,5,7.0,71,66,48,72.7
+Cee,cee,A Coruña,88,20,22.7,16,18.2,11,16.2,68,65,45,69.2
+Sonseca,sonseca,Toledo,88,29,33.0,23,26.1,6,10.2,59,60,51,85.0
+Yuncos,yuncos,Toledo,88,24,27.3,16,18.2,10,15.6,64,61,49,80.3
+La Zubia,la-zubia,Granada,88,25,28.4,14,15.9,9,14.3,63,61,55,90.2
+Vilanova de Arousa,vilanova-de-arousa,Pontevedra,88,18,20.5,12,13.6,9,12.9,70,68,50,73.5
+Vícar,vicar,Almería,88,21,23.9,15,17.0,9,13.4,67,67,52,77.6
+Estepa,estepa,Sevilla,88,17,19.3,7,8.0,8,11.3,71,76,61,80.3
+Baena,baena,Córdoba,87,19,21.8,17,19.5,7,10.3,68,67,57,85.1
+Osuna,osuna,Sevilla,87,21,24.1,12,13.8,8,12.3,65,68,59,86.8
+O Barco de Valdeorras,o-barco-de-valdeorras,Ourense,87,20,23.0,13,14.9,5,7.5,67,64,53,82.8
+Arnedo,arnedo,La Rioja,87,17,19.5,12,13.8,8,11.6,69,69,57,82.6
+Moaña,moana,Pontevedra,87,16,18.4,13,14.9,5,7.0,71,59,39,66.1
+La Bañeza,la-baneza,León,87,30,34.5,15,17.2,12,21.1,57,62,47,75.8
+Vilassar de Dalt,vilassar-de-dalt,Barcelona,87,24,27.6,15,17.2,5,7.9,63,64,53,82.8
+Callosa de Segura,callosa-de-segura,Alicante,87,18,20.7,12,13.8,4,5.9,68,65,53,81.5
+Cabrales,cabrales,Asturias,86,21,24.4,15,17.4,13,20.0,65,59,50,84.7
+Vilalba,vilalba,Lugo,86,13,15.1,4,4.7,4,5.6,72,69,54,78.3
+Ajalvir,ajalvir,Madrid,85,26,30.6,15,17.6,4,6.8,59,60,42,70.0
+Castellbisbal,castellbisbal,Barcelona,85,19,22.4,8,9.4,10,15.2,66,65,42,64.6
+Casares,casares,Málaga,85,19,22.4,12,14.1,2,3.1,65,66,56,84.8
+Sa Pobla,sa-pobla,Illes Balears,85,15,17.6,12,14.1,6,8.6,70,65,59,90.8
+Bermeo,bermeo,Bizkaia,85,20,23.5,13,15.3,3,4.6,65,60,48,80.0
+Binéfar,binefar,Huesca,85,15,17.6,11,12.9,6,8.6,70,65,59,90.8
+Gines,gines,Sevilla,84,22,26.2,14,16.7,5,8.1,62,58,53,91.4
+La Puebla de Alfindén,la-puebla-de-alfinden,Zaragoza,84,21,25.0,12,14.3,5,8.1,62,66,42,63.6
+Cazorla,cazorla,Jaén,84,25,29.8,12,14.3,5,8.6,58,64,45,70.3
+Picanya,picanya,Valencia,83,19,22.9,11,13.3,6,9.4,64,59,48,81.4
+Ogíjares,ogijares,Granada,83,17,20.5,12,14.5,2,3.1,65,64,52,81.2
+Alella,alella,Barcelona,83,22,26.5,14,16.9,6,10.0,60,64,43,67.2
+San Miguel de Salinas,san-miguel-de-salinas,Alicante,83,18,21.7,10,12.0,8,12.3,65,66,54,81.8
+Aínsa-Sobrarbe,ainsa-sobrarbe,Huesca,83,16,19.3,9,10.8,4,6.1,66,65,42,64.6
+Benasque,benasque,Huesca,83,11,13.3,4,4.8,6,8.3,72,74,56,75.7
+El Espinar,el-espinar,Segovia,83,28,33.7,21,25.3,5,9.3,54,53,48,90.6
+Benetússer,benetusser,Valencia,82,20,24.4,10,12.2,4,6.5,62,62,56,90.3
+la Roca del Vallès,la-roca-del-valles,Barcelona,82,14,17.1,5,6.1,4,5.9,68,67,47,70.1
+La Unión,la-union,Murcia,82,17,20.7,13,15.9,9,14.1,64,63,53,84.1
+Bueu,bueu,Pontevedra,82,24,29.3,15,18.3,6,10.3,58,55,45,81.8
+Llagostera,llagostera,Girona,82,19,23.2,11,13.4,10,16.1,62,63,53,84.1
+Santa Marta de Tormes,santa-marta-de-tormes,Salamanca,82,18,22.0,14,17.1,6,9.4,64,58,38,65.5
+Amorebieta-Echano,amorebieta-echano,Bizkaia,82,25,30.5,14,17.1,6,10.9,55,60,47,78.3
+San Juan del Puerto,san-juan-del-puerto,Huelva,81,21,25.9,13,16.0,3,5.0,60,60,46,76.7
+San Juan de Aznalfarache,san-juan-de-aznalfarache,Sevilla,81,26,32.1,19,23.5,0,0.0,55,50,43,86.0
+Polinyà,polinya,Barcelona,81,19,23.5,12,14.8,9,14.8,61,61,39,63.9
+Gáldar,galdar,Las Palmas,81,31,38.3,20,24.7,7,14.0,50,46,34,73.9
+Navia,navia,Asturias,81,22,27.2,12,14.8,9,15.5,58,63,54,85.7
+Zumaia,zumaia,Gipuzkoa,81,15,18.5,9,11.1,4,6.1,66,60,46,76.7
+Valle de Elorz,valle-de-elorz,Navarra,81,10,12.3,5,6.2,6,8.5,71,70,56,80.0
+Foz,foz,Lugo,81,19,23.5,15,18.5,8,13.1,61,54,41,75.9
+Tafalla,tafalla,Navarra,81,17,21.0,15,18.5,6,9.4,64,61,54,88.5
+Santa Fe,santa-fe,Granada,81,19,23.5,13,16.0,9,14.5,62,59,46,78.0
+l'Ametlla del Vallès,l-ametlla-del-valles,Barcelona,81,24,29.6,16,19.8,10,17.5,57,54,39,72.2
+Godella,godella,Valencia,80,19,23.8,9,11.2,5,8.2,61,64,54,84.4
+Tordera,tordera,Barcelona,80,30,37.5,19,23.8,7,14.0,50,51,38,74.5
+Pego,pego,Alicante,80,19,23.8,10,12.5,6,10.2,59,63,53,84.1
+Medio Cudeyo,medio-cudeyo,Cantabria,80,19,23.8,12,15.0,6,9.8,61,61,49,80.3
+Peñafiel,penafiel,Valladolid,80,16,20.0,11,13.8,4,6.3,63,64,44,68.8
+Sabiñánigo,sabinanigo,Huesca,80,23,28.8,12,15.0,4,7.0,57,61,51,83.6
+Benijófar,benijofar,Alicante,80,13,16.2,11,13.8,3,4.5,67,59,45,76.3
+Caspe,caspe,Zaragoza,80,18,22.5,8,10.0,7,11.3,62,67,52,77.6
+Burlada,burlada,Navarra,80,17,21.2,10,12.5,5,7.9,63,62,52,83.9
+Pilas,pilas,Sevilla,80,28,35.0,18,22.5,7,14.0,50,49,43,87.8

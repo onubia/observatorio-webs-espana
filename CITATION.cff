@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+title: "Observatorio de las webs de los negocios de España: 377.113 webs medidas una a una (noviembre de 2026)"
+type: dataset
+authors:
+  - family-names: "Rodríguez"
+    given-names: "Jose"
+    affiliation: "Onubia"
+date-released: 2026-11-20
+license: CC-BY-4.0
+url: "https://onubia.com/observatorio/espana/"
+repository-code: "https://github.com/onubia/observatorio-webs-espana"
+keywords: [pymes, digitalización, España, sitios web, ciberseguridad, DMARC, SPF, HTTPS, datos abiertos]

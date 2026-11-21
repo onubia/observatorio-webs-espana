@@ -1,0 +1,10 @@
+{
+  "title": "Observatorio de las webs de los negocios de España: 377.113 webs medidas una a una (noviembre de 2026)",
+  "upload_type": "dataset",
+  "description": "<p>Medición desde fuera de las webs propias de 377.113 negocios de España que anuncian una web en sus fichas de mapas públicos (Overture Maps Foundation, con apoyo de OpenStreetMap), en 696 ciudades y 51 provincias. 1,1 millones de comprobaciones en 26 horas (19 y 20 de noviembre de 2026): carga en dos pasadas, existencia del dominio, certificado HTTPS y registros de correo (MX, SPF, DMARC).</p><p>España: el 25,6 % de las webs no carga; el 15,9 % de los negocios anuncia un dominio que ya no existe; el 9,3 % de las webs con HTTPS tiene el certificado mal; el 80,7 % de los dominios con correo propio se puede suplantar. Solo agregados, sin nombres de negocios. Web: https://onubia.com/observatorio/espana/</p>",
+  "creators": [{"name": "Rodríguez, Jose", "affiliation": "Onubia"}],
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "keywords": ["pymes", "digitalización", "España", "sitios web", "ciberseguridad", "correo electrónico", "DMARC", "SPF", "HTTPS", "datos abiertos"],
+  "related_identifiers": [{"identifier": "https://onubia.com/observatorio/espana/", "relation": "isDocumentedBy", "scheme": "url"}]
+}
