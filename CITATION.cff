@@ -8,6 +8,7 @@ authors:
     affiliation: "Onubia"
 date-released: 2026-11-20
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24424244"
 url: "https://onubia.com/observatorio/espana/"
 repository-code: "https://github.com/onubia/observatorio-webs-espana"
 keywords: [pymes, digitalización, España, sitios web, ciberseguridad, DMARC, SPF, HTTPS, datos abiertos]

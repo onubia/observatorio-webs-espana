@@ -1,5 +1,7 @@
 # Observatorio de las webs de los negocios de España
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24424244.svg)](https://doi.org/10.5281/zenodo.24424244)
+
 **377.113 webs de negocios medidas una a una, desde fuera (noviembre de 2026).** El mayor estudio público sobre el
 estado de las webs y el correo de los negocios de España: 696 ciudades, 51 provincias y todos los sectores.
 
@@ -50,3 +52,9 @@ La medición se repite cada mes. Contacto: info@onubia.com · WhatsApp 677 444 3
 (November 2026): 25.6 % do not load, 15.9 % advertise a domain that no longer exists, 9.3 % of HTTPS sites have a
 broken certificate and 80.7 % of businesses with their own email domain can be spoofed (no DMARC or `p=none`).
 Aggregates only (no business names), by Spanish city, province and sector. CC BY 4.0.
+
+
+## DOI
+Archivado en Zenodo (CERN): **https://doi.org/10.5281/zenodo.24424244** (apunta siempre a la última versión; noviembre de 2026: 10.5281/zenodo.24424245).
+
+Rodríguez, J. (2026). *Observatorio de las webs de los negocios de España: 377.113 webs medidas una a una (noviembre de 2026)* [Conjunto de datos]. Onubia. Zenodo. https://doi.org/10.5281/zenodo.24424244
