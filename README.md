@@ -25,6 +25,29 @@ Web con las páginas por ciudad, imágenes y metodología: **https://onubia.com/
 - **No se publican nombres de negocios**, solo agregados por ámbito, ciudad (con 80 webs medidas o más), provincia y
   sector.
 
+<!-- por-dentro -->
+## Por dentro de las webs (2026-11-22 a 2026-11-24)
+
+Además de si cargan, se leyó la portada de 266.854 webs y 106.407 avisos legales. Cada cifra se calcula sobre las webs en las que se puede medir (entre paréntesis) y solo se publica con 80 webs o más detrás. Cada medida se revisó a mano antes de publicarla (al menos 20 webs al azar, 90 % de aciertos o más).
+
+- 33,4 % con WordPress 6 o anterior (30.856 de las 92.352 webs en WordPress que enseñan su versión)
+- 40,4 % con una versión de PHP sin soporte (14.105 de las 34.918 webs que enseñan su versión de PHP)
+- 8,2 % con estadísticas que no miden nada desde 2023 (21.817 de las 266.854 webs leídas)
+- 22,2 % sin ningún enlace a sus textos legales (53.322 de las 240.522 portadas que se pudieron leer)
+- 14,8 % sin NIF en el aviso legal (15.759 de los 106.407 avisos legales leídos)
+- 51,8 % sociedades sin sus datos del Registro Mercantil (29.974 de los 57.829 avisos legales de sociedades (S.L., S.A.))
+- 27,1 % con imágenes sin texto alternativo (63.707 de las 235.497 portadas con imágenes)
+- 21,4 % bloquean el zoom en el móvil (51.389 de las 240.522 portadas que se pudieron leer)
+- 27,3 % sin descripción para Google (65.726 de las 240.522 portadas que se pudieron leer)
+- 1,8 % piden a Google que no las enseñe (4.437 de las 240.522 portadas que se pudieron leer)
+- 7,2 % con el dominio a punto de caducar (13.810 de los 192.665 dominios .com y .net con fecha de caducidad pública)
+- En el móvil, una web tarda de mediana 6,7 s en enseñar su contenido principal; solo el 19,4 % pasa el límite de Google (2,5 s) y el 34,4 % tarda más de 10 s (iPhone 13 con 4G lenta (1,6 Mbps, 150 ms) y procesador 4 veces más lento, como PageSpeed de Google en móvil; muestra de 28.307 webs ponderada por provincia).
+
+No pasaron la revisión a mano y no se publican: año del pie, aviso de cookies, etiquetas de los formularios.
+
+Fichero: `datos/observatorio-por-dentro.csv` (España, provincias y ciudades).
+<!-- /por-dentro -->
+
 ## Ficheros (`datos/`)
 | Fichero | Contenido |
 |---|---|
@@ -32,6 +55,7 @@ Web con las páginas por ciudad, imágenes y metodología: **https://onubia.com/
 | `observatorio-ciudades.csv` | 696 ciudades |
 | `observatorio-provincias.csv` | 51 provincias |
 | `observatorio-espana-cruces.json` | Por qué no carga cada web caída, candado y correo por dentro, proveedores de correo, tamaño de ciudad, islas y terminaciones de dominio |
+| `observatorio-por-dentro.csv` | Cada medida «por dentro» (mantenimiento, ley, accesibilidad, Google, dominio y velocidad) de España, provincias y ciudades |
 
 Campos: `webs` (medidas), `caidas` / `pctCaidas` (no cargan en dos pasadas), `dominioPerdido` / `pctDominioPerdido`,
 `tlsMal` / `conTls` / `pctTlsMal` (certificado mal sobre las que tienen HTTPS), `conCorreo` (dominios con correo
