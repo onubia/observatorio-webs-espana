@@ -32,6 +32,7 @@ Además de si cargan, se leyó la portada de 266.854 webs y 106.407 avisos legal
 
 - 33,4 % con WordPress 6 o anterior (30.856 de las 92.352 webs en WordPress que enseñan su versión)
 - 40,4 % con una versión de PHP sin soporte (14.105 de las 34.918 webs que enseñan su versión de PHP)
+- 14,4 % miden visitas sin aviso de cookies (17.347 de las 120.657 webs con alguna herramienta de seguimiento)
 - 8,2 % con estadísticas que no miden nada desde 2023 (21.817 de las 266.854 webs leídas)
 - 22,2 % sin ningún enlace a sus textos legales (53.322 de las 240.522 portadas que se pudieron leer)
 - 14,8 % sin NIF en el aviso legal (15.759 de los 106.407 avisos legales leídos)
@@ -43,7 +44,7 @@ Además de si cargan, se leyó la portada de 266.854 webs y 106.407 avisos legal
 - 7,2 % con el dominio a punto de caducar (13.810 de los 192.665 dominios .com y .net con fecha de caducidad pública)
 - En el móvil, una web tarda de mediana 6,7 s en enseñar su contenido principal; solo el 19,4 % pasa el límite de Google (2,5 s) y el 34,4 % tarda más de 10 s (iPhone 13 con 4G lenta (1,6 Mbps, 150 ms) y procesador 4 veces más lento, como PageSpeed de Google en móvil; muestra de 28.307 webs ponderada por provincia).
 
-No pasaron la revisión a mano y no se publican: año del pie, aviso de cookies, etiquetas de los formularios.
+No pasaron la revisión a mano y no se publican: año del pie, etiquetas de los formularios.
 
 Fichero: `datos/observatorio-por-dentro.csv` (España, provincias y ciudades).
 <!-- /por-dentro -->
