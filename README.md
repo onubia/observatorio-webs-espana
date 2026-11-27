@@ -49,6 +49,29 @@ No pasaron la revisión a mano y no se publican: año del pie, etiquetas de los 
 Fichero: `datos/observatorio-por-dentro.csv` (España, provincias y ciudades).
 <!-- /por-dentro -->
 
+## El correo según el proveedor (MX del 26/11/2026)
+
+267.797 dominios de negocios con correo, agrupados por el proveedor que dice su registro MX. «Suplantable» = sin DMARC o
+con `p=none`. No es un fallo del proveedor: la protección la activa quien lleva cada dominio.
+
+| Proveedor | Dominios | Suplantables | Sin DMARC | DMARC solo en «vigilar» |
+|---|---|---|---|---|
+| IONOS | 32.991 | 97,6 % | 6,7 % | 90,9 % |
+| Google Workspace | 24.563 | 84,8 % | 44,6 % | 40,2 % |
+| Microsoft 365 | 21.831 | 72,3 % | 37,6 % | 34,8 % |
+| Arsys | 16.709 | 86,4 % | 76,6 % | 9,9 % |
+| Hostinger | 8.250 | 98,3 % | 11,2 % | 87,2 % |
+| OVHcloud | 5.517 | 96,2 % | 83,4 % | 12,8 % |
+| SiteGround | 5.070 | 96,0 % | 1,6 % | 94,4 % |
+| DonDominio | 4.349 | 95,6 % | 82,5 % | 13,1 % |
+| Nominalia | 3.454 | 97,8 % | 82,3 % | 15,5 % |
+| Zoho Mail | 1.549 | 85,2 % | 42,1 % | 43,1 % |
+| GoDaddy | 436 | 64,7 % | 57,1 % | 7,6 % |
+| Otros o servidor propio | 143.078 | 74,7 % | 41,6 % | 33,2 % |
+
+Cómo arreglarlo en cada proveedor: **https://onubia.com/blog/configurar-spf-dkim-dmarc-paso-a-paso/** · Comprueba tu dominio:
+https://onubia.com/comprobar-spf-dmarc/
+
 ## Ficheros (`datos/`)
 | Fichero | Contenido |
 |---|---|
@@ -56,6 +79,7 @@ Fichero: `datos/observatorio-por-dentro.csv` (España, provincias y ciudades).
 | `observatorio-ciudades.csv` | 696 ciudades |
 | `observatorio-provincias.csv` | 51 provincias |
 | `observatorio-espana-cruces.json` | Por qué no carga cada web caída, candado y correo por dentro, proveedores de correo, tamaño de ciudad, islas y terminaciones de dominio |
+| `observatorio-correo-proveedores.csv` | Suplantación del correo por proveedor |
 | `observatorio-por-dentro.csv` | Cada medida «por dentro» (mantenimiento, ley, accesibilidad, Google, dominio y velocidad) de España, provincias y ciudades |
 
 Campos: `webs` (medidas), `caidas` / `pctCaidas` (no cargan en dos pasadas), `dominioPerdido` / `pctDominioPerdido`,

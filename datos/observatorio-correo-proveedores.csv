@@ -1,0 +1,14 @@
+proveedor,dominios,pct_cuota,suplantables,pct_suplantables,pct_sin_dmarc,pct_dmarc_solo_vigila,pct_sin_spf
+IONOS,32991,12.3,32213,97.6,6.7,90.9,2.4
+Google Workspace,24563,9.2,20826,84.8,44.6,40.2,16.7
+Microsoft 365,21831,8.2,15786,72.3,37.6,34.8,0.6
+Arsys,16709,6.2,14439,86.4,76.6,9.9,0.7
+Hostinger,8250,3.1,8113,98.3,11.2,87.2,3.2
+OVHcloud,5517,2.1,5305,96.2,83.4,12.8,8.0
+SiteGround,5070,1.9,4869,96.0,1.6,94.4,0.7
+DonDominio,4349,1.6,4157,95.6,82.5,13.1,1.9
+Nominalia,3454,1.3,3379,97.8,82.3,15.5,12.4
+Zoho Mail,1549,0.6,1320,85.2,42.1,43.1,5.3
+GoDaddy,436,0.2,282,64.7,57.1,7.6,50.0
+Otros o servidor propio,143078,53.4,106903,74.7,41.6,33.2,6.3
+TOTAL,267797,100,217592,81.3,,,
